@@ -27,7 +27,9 @@ the case. By writing your names below you agree to follow the code of conduct.
 
 Please provide the name & emails of your team members:
     * Bryant Park (blp73@cornell.edu)
-    * ...
+    * Edward Zhang (ez246@cornell.edu)
+    * Jordan Han (jsh323@cornell.edu)
+    * Marie Aractingi (ma788@cornell.edu)
 
 Best of Luck!
 """
