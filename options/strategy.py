@@ -1,4 +1,5 @@
 import csv
+from datetime import datetime
 import math
 import numpy as np
 from scipy.stats import norm
@@ -25,7 +26,7 @@ Plagiarism is strictly banned and will result in your team being withdrawn from
 the case. By writing your names below you agree to follow the code of conduct.
 
 Please provide the name & emails of your team members:
-    * Student Name (student@email.com)
+    * Bryant Park (blp73@cornell.edu)
     * ...
 
 Best of Luck!
@@ -33,7 +34,10 @@ Best of Luck!
 
 
 class Strategy:
-
+    def __init__(self):
+        self.bs_vals: list[float] = []
+        self.bs_iv_vals: list[float] = []
+        self.bin_vals: list[float] = []
 
     """
     read_data:
@@ -48,21 +52,18 @@ class Strategy:
     returns:
         Nothing
     """
-
-    ## im assuming row vals is an array of the same type as the given file:
-    ##[underlying_symbol,
     def read_data(self, row_vals):
+        row = row_vals[-1]
+        # unpack data
+        time_to_maturity = (datetime.date.fromisoformat(row[3]) - datetime.date.fromisoformat(row[1].split(' ')[0])).days / 365
+        spy_price = (float(row[15]) + float(row[16])) / 2
+        strike_price = float(row[4])
+        is_call = float[5] == "C"
 
+        # calculate black scholes, append to array
+        self.bs_vals.append(self.black_scholes(time_to_maturity, .035, spy_price, strike_price, .282, .0125))
+        self.bin_vals.append(self.binomial(time_to_maturity, .035, spy_price, strike_price, .282, .0125))
 
-        #data contains [time to maturity, SPY price, strike price,type]
-        if row_vals[5]=="C":
-            call=1
-        else:
-            call=0
-        data=[row_vals[],(row_vals[15]+row_vals[16])/2,row_vals[4],call]
-
-        print(row_vals.toString())
-        pass
 
     """
     make_trades:
@@ -86,19 +87,20 @@ class Strategy:
         the first element be str(strike)+str(expiry date) we have the word
         'underlying'
     """
+    def make_trades(self):
+        pass
 
-    ## N: number of iterations in binomial tree
-    ## tau: Time to maturity
-    ## r: risk free rate (3.7%)?
-    ## S: Stock price
-    ## K: Strike price
-    ## v: Volatility (Standard deviation of sstock returns) 14.79%
-    ## q: dividend yield rate
-    ## is it a call? (0 or 1) value 0 if put
-
+    """
+    N: number of iterations in binomial tree
+    tau: Time to maturity
+    r: risk free rate (3.7%)?
+    S: Stock price
+    K: Strike price
+    v: Volatility (Standard deviation of sstock returns) 14.79%
+    q: dividend yield rate
+    is it a call? (0 or 1) value 0 if put
+    """
     def black_scholes(self, tau, r, S, K, v, q, call):
-
-
         normalCDF=norm.cdf
         mult = 2 * (call.value - 1.5)
 
@@ -106,8 +108,6 @@ class Strategy:
         d2 = d1 - (v * math.sqrt(tau))
         return mult * (S * (math.e ** (-q * tau)) * normalCDF(mult * d1) - (
                     normalCDF(mult * d2) * K * math.e ** (-r * tau)))
-
-
 
     ## N: number of iterations in binomial tree
     ## T: Time to maturity
@@ -144,6 +144,3 @@ class Strategy:
                                          mult * (stockPrice[j + N] - K))
 
         return optionPrice[N]
-
-    def make_trades(self):
-        pass
