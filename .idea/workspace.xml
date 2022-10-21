@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b48b7ccc-d382-4043-b545-27a97bba330d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/portfoliomanagement/portfoliotrading.py" beforeDir="false" afterPath="$PROJECT_DIR$/portfoliomanagement/portfoliotrading.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

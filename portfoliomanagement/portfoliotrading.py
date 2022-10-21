@@ -145,6 +145,7 @@ def strat_function1(causation_matrix, tickers):
 emma=[]
 
 def strat_function(preds, prices, last_weights):
+    ###
     weights=[]
     if prices.length()==2:
         for i in range(20):
@@ -165,11 +166,13 @@ def strat_function(preds, prices, last_weights):
         pairs=strat_function1(causation_matrix,tickers)
     else:
         weights=[]
-
+    ###
     troll=[]
     sum=0
     for i in range(20):
         b=math.random()
+        if b<.5:
+            b=0
         sum+=b
         troll.append(b)
     for i in range(20):
