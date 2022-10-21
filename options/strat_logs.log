@@ -1,0 +1,3461 @@
+INFO - ####2020-11-06 09:31:00####
+INFO - #####
+INFO - Liquid Cash: 100000
+INFO - Current Value: 100000
+INFO - #####
+INFO - ####2020-11-06 09:32:00####
+WARNING - The trade order: ('C_386.0', 0, 11083) is not valid!
+INFO - underlying: Shorting 11083 shares at 349.76 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 3876390.08
+INFO - #####
+INFO - Liquid Cash: 3976390.08
+INFO - Current Value: 3976390.08
+INFO - #####
+INFO - ####2020-11-06 09:33:00####
+INFO - C_283.0: Shorting 0 shares at 80.0 | Going long 80 shares at 348.97
+INFO - Transaction Net Value: -27917.600000000002
+INFO - underlying: Shorting 80 shares at 348.98 | Going long 0 shares at 1390.0
+INFO - Transaction Net Value: 27918.4
+INFO - #####
+INFO - Liquid Cash: 3976390.88
+INFO - Current Value: -11533779.120000001
+INFO - #####
+INFO - ####2020-11-06 09:34:00####
+WARNING - The trade order: ('C_371.0', 0, 2928) is not valid!
+INFO - underlying: Shorting 2928 shares at 348.93 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 1021667.04
+INFO - #####
+INFO - Liquid Cash: 4998057.92
+INFO - Current Value: 5004857.92
+INFO - #####
+INFO - ####2020-11-06 09:35:00####
+INFO - C_170.0: Shorting 0 shares at 4.0 | Going long 4 shares at 348.96
+INFO - Transaction Net Value: -1395.84
+INFO - underlying: Shorting 4 shares at 348.98 | Going long 0 shares at 1813.0
+INFO - Transaction Net Value: 1395.92
+INFO - #####
+INFO - Liquid Cash: 4998058.0
+INFO - Current Value: -20554161.0
+INFO - #####
+INFO - ####2020-11-06 09:36:00####
+WARNING - The trade order: ('C_372.0', 0, 635) is not valid!
+INFO - underlying: Shorting 635 shares at 349.03 | Going long 0 shares at 14.0
+INFO - Transaction Net Value: 221634.05
+INFO - #####
+INFO - Liquid Cash: 5219692.05
+INFO - Current Value: 5015684.05
+INFO - #####
+INFO - ####2020-11-06 09:37:00####
+INFO - C_335.0: Shorting 0 shares at 25.0 | Going long 25 shares at 348.68
+INFO - Transaction Net Value: -8717.0
+INFO - underlying: Shorting 25 shares at 348.71 | Going long 0 shares at 45.0
+INFO - Transaction Net Value: 8717.75
+INFO - #####
+INFO - Liquid Cash: 5219692.8
+INFO - Current Value: 4559762.8
+INFO - #####
+INFO - ####2020-11-06 09:38:00####
+INFO - C_260.0: Shorting 0 shares at 25.0 | Going long 25 shares at 348.62
+INFO - Transaction Net Value: -8715.5
+INFO - underlying: Shorting 25 shares at 348.65 | Going long 0 shares at 380.0
+INFO - Transaction Net Value: 8716.25
+INFO - #####
+INFO - Liquid Cash: 5219693.55
+INFO - Current Value: -394433.4500000002
+INFO - #####
+INFO - ####2020-11-06 09:39:00####
+INFO - C_318.0: Shorting 0 shares at 39.0 | Going long 39 shares at 348.46
+INFO - Transaction Net Value: -13589.939999999999
+INFO - underlying: Shorting 39 shares at 348.48 | Going long 0 shares at 1038.0
+INFO - Transaction Net Value: 13590.720000000001
+INFO - #####
+INFO - Liquid Cash: 5219694.329999999
+INFO - Current Value: -10158329.670000002
+INFO - #####
+INFO - ####2020-11-06 09:40:00####
+INFO - C_341.0: Shorting 156 shares at 165.0 | Going long 0 shares at 348.15
+INFO - Transaction Net Value: 25740.0
+INFO - underlying: Shorting 0 shares at 348.17 | Going long 156 shares at 47.0
+INFO - Transaction Net Value: -7332.0
+INFO - #####
+INFO - Liquid Cash: 5238102.329999999
+INFO - Current Value: 4501010.929999999
+INFO - #####
+INFO - ####2020-11-06 09:41:00####
+INFO - C_265.0: Shorting 0 shares at 76.0 | Going long 76 shares at 348.63
+INFO - Transaction Net Value: -26495.88
+INFO - underlying: Shorting 76 shares at 348.65 | Going long 0 shares at 38.0
+INFO - Transaction Net Value: 26497.399999999998
+INFO - #####
+INFO - Liquid Cash: 5238103.85
+INFO - Current Value: 4641768.569999999
+INFO - #####
+INFO - ####2020-11-06 09:42:00####
+INFO - C_360.0: Shorting 0 shares at 256.0 | Going long 256 shares at 348.65
+INFO - Transaction Net Value: -89254.4
+INFO - underlying: Shorting 256 shares at 348.67 | Going long 0 shares at 1673.0
+INFO - Transaction Net Value: 89259.52
+INFO - #####
+INFO - Liquid Cash: 5238108.969999999
+INFO - Current Value: -19834437.43
+INFO - #####
+INFO - ####2020-11-06 09:43:00####
+INFO - C_239.0: Shorting 0 shares at 38.0 | Going long 38 shares at 348.56
+INFO - Transaction Net Value: -13245.28
+INFO - underlying: Shorting 38 shares at 348.58 | Going long 0 shares at 26.0
+INFO - Transaction Net Value: 13246.039999999999
+INFO - #####
+INFO - Liquid Cash: 5238109.729999999
+INFO - Current Value: 5838744.369999998
+INFO - #####
+INFO - ####2020-11-06 09:44:00####
+INFO - C_348.0: Shorting 0 shares at 124.0 | Going long 124 shares at 348.57
+INFO - Transaction Net Value: -43222.68
+INFO - underlying: Shorting 124 shares at 348.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 43223.92
+INFO - #####
+INFO - Liquid Cash: 5238110.969999999
+INFO - Current Value: 5229051.049999999
+INFO - #####
+INFO - ####2020-11-06 09:45:00####
+INFO - C_352.0: Shorting 0 shares at 262.0 | Going long 262 shares at 348.46
+INFO - Transaction Net Value: -91296.51999999999
+INFO - underlying: Shorting 262 shares at 348.47 | Going long 0 shares at 6.0
+INFO - Transaction Net Value: 91299.14000000001
+INFO - #####
+INFO - Liquid Cash: 5238113.589999999
+INFO - Current Value: 17099811.83
+INFO - #####
+INFO - ####2020-11-06 09:46:00####
+INFO - C_332.0: Shorting 0 shares at 31.0 | Going long 31 shares at 348.59
+INFO - Transaction Net Value: -10806.289999999999
+INFO - underlying: Shorting 31 shares at 348.6 | Going long 0 shares at 2257.0
+INFO - Transaction Net Value: 10806.6
+INFO - #####
+INFO - Liquid Cash: 5238113.8999999985
+INFO - Current Value: -29372609.14
+INFO - #####
+INFO - ####2020-11-06 09:47:00####
+INFO - C_333.0: Shorting 0 shares at 12.0 | Going long 12 shares at 348.43
+INFO - Transaction Net Value: -4181.16
+INFO - underlying: Shorting 12 shares at 348.44 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 4181.28
+INFO - #####
+INFO - Liquid Cash: 5238114.019999999
+INFO - Current Value: 5437722.939999999
+INFO - #####
+INFO - ####2020-11-06 09:48:00####
+INFO - C_303.0: Shorting 0 shares at 39.0 | Going long 39 shares at 348.52
+INFO - Transaction Net Value: -13592.279999999999
+INFO - underlying: Shorting 39 shares at 348.53 | Going long 0 shares at 2383.0
+INFO - Transaction Net Value: 13592.669999999998
+INFO - #####
+INFO - Liquid Cash: 5238114.409999998
+INFO - Current Value: -31280903.710000005
+INFO - #####
+INFO - ####2020-11-06 09:49:00####
+INFO - C_205.0: Shorting 0 shares at 23.0 | Going long 23 shares at 348.76
+INFO - Transaction Net Value: -8021.48
+INFO - underlying: Shorting 23 shares at 348.78 | Going long 0 shares at 22.0
+INFO - Transaction Net Value: 8021.94
+INFO - #####
+INFO - Liquid Cash: 5238114.869999998
+INFO - Current Value: 5317430.309999999
+INFO - #####
+INFO - ####2020-11-06 09:50:00####
+WARNING - The trade order: ('C_375.0', 0, 6566) is not valid!
+INFO - underlying: Shorting 6566 shares at 348.47 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 2288054.02
+INFO - #####
+INFO - Liquid Cash: 7526168.889999999
+INFO - Current Value: 8322050.129999999
+INFO - #####
+INFO - ####2020-11-06 09:51:00####
+INFO - C_328.0: Shorting 0 shares at 111.0 | Going long 111 shares at 348.64
+INFO - Transaction Net Value: -38699.04
+INFO - underlying: Shorting 111 shares at 348.66 | Going long 0 shares at 2751.0
+INFO - Transaction Net Value: 38701.26
+INFO - #####
+INFO - Liquid Cash: 7526171.1099999985
+INFO - Current Value: -53361443.730000004
+INFO - #####
+INFO - ####2020-11-06 09:52:00####
+INFO - C_347.5: Shorting 0 shares at 122.0 | Going long 122 shares at 348.35
+INFO - Transaction Net Value: -42498.700000000004
+INFO - underlying: Shorting 122 shares at 348.37 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 42501.14
+INFO - #####
+INFO - Liquid Cash: 7526173.549999998
+INFO - Current Value: 7612548.949999998
+INFO - #####
+INFO - ####2020-11-06 09:53:00####
+INFO - C_331.0: Shorting 0 shares at 2.0 | Going long 2 shares at 348.37
+INFO - Transaction Net Value: -696.74
+INFO - underlying: Shorting 2 shares at 348.39 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 696.78
+INFO - #####
+INFO - Liquid Cash: 7526173.589999998
+INFO - Current Value: 7654197.869999998
+INFO - #####
+INFO - ####2020-11-06 09:54:00####
+INFO - C_354.0: Shorting 0 shares at 151.0 | Going long 151 shares at 348.39
+INFO - Transaction Net Value: -52606.89
+INFO - underlying: Shorting 151 shares at 348.41 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 52609.91
+INFO - #####
+INFO - Liquid Cash: 7526176.6099999985
+INFO - Current Value: 7550164.769999999
+INFO - #####
+INFO - ####2020-11-06 09:55:00####
+INFO - C_315.0: Shorting 0 shares at 29.0 | Going long 29 shares at 348.38
+INFO - Transaction Net Value: -10103.02
+INFO - underlying: Shorting 29 shares at 348.39 | Going long 0 shares at 1796.0
+INFO - Transaction Net Value: 10103.31
+INFO - #####
+INFO - Liquid Cash: 7526176.8999999985
+INFO - Current Value: -32043421.380000003
+INFO - #####
+INFO - ####2020-11-06 09:56:00####
+INFO - C_331.0: Shorting 0 shares at 164.0 | Going long 164 shares at 348.15
+INFO - Transaction Net Value: -57096.6
+INFO - underlying: Shorting 164 shares at 348.16 | Going long 0 shares at 9866.0
+INFO - Transaction Net Value: 57098.240000000005
+INFO - #####
+INFO - Liquid Cash: 7526178.539999999
+INFO - Current Value: -216001592.86
+INFO - #####
+INFO - ####2020-11-06 09:57:00####
+WARNING - The trade order: ('C_367.0', 0, 16297) is not valid!
+INFO - underlying: Shorting 16297 shares at 347.95 | Going long 0 shares at 3242.0
+INFO - Transaction Net Value: 5670541.149999999
+INFO - #####
+INFO - Liquid Cash: 13196719.689999998
+INFO - Current Value: -112930911.95
+INFO - #####
+INFO - ####2020-11-06 09:58:00####
+WARNING - The trade order: ('C_367.0', 0, 18805) is not valid!
+INFO - underlying: Shorting 18805 shares at 347.75 | Going long 0 shares at 16.0
+INFO - Transaction Net Value: 6539438.75
+INFO - #####
+INFO - Liquid Cash: 19736158.439999998
+INFO - Current Value: 18927581.56
+INFO - #####
+INFO - ####2020-11-06 09:59:00####
+INFO - C_314.0: Shorting 0 shares at 29.0 | Going long 29 shares at 348.44
+INFO - Transaction Net Value: -10104.76
+INFO - underlying: Shorting 29 shares at 348.46 | Going long 0 shares at 10.0
+INFO - Transaction Net Value: 10105.34
+INFO - #####
+INFO - Liquid Cash: 19736159.019999996
+INFO - Current Value: 19341066.379999995
+INFO - #####
+INFO - ####2020-11-06 10:00:00####
+INFO - C_331.0: Shorting 0 shares at 39.0 | Going long 39 shares at 348.27
+INFO - Transaction Net Value: -13582.529999999999
+INFO - underlying: Shorting 39 shares at 348.28 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 13582.919999999998
+INFO - #####
+INFO - Liquid Cash: 19736159.409999996
+INFO - Current Value: 22376410.289999995
+INFO - #####
+INFO - ####2020-11-06 10:01:00####
+INFO - C_306.0: Shorting 0 shares at 48.0 | Going long 48 shares at 348.6
+INFO - Transaction Net Value: -16732.800000000003
+INFO - underlying: Shorting 48 shares at 348.62 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 16733.760000000002
+INFO - #####
+INFO - Liquid Cash: 19736160.369999997
+INFO - Current Value: 19985026.769999996
+INFO - #####
+INFO - ####2020-11-06 10:02:00####
+WARNING - The trade order: ('C_383.0', 0, 20515) is not valid!
+INFO - underlying: Shorting 20515 shares at 348.31 | Going long 0 shares at 8696.0
+INFO - Transaction Net Value: 7145579.65
+INFO - #####
+INFO - Liquid Cash: 26881740.019999996
+INFO - Current Value: -654747721.22
+INFO - #####
+INFO - ####2020-11-06 10:03:00####
+INFO - C_339.0: Shorting 116 shares at 179.0 | Going long 0 shares at 348.26
+INFO - Transaction Net Value: 20764.0
+INFO - underlying: Shorting 0 shares at 348.27 | Going long 116 shares at 24541.0
+INFO - Transaction Net Value: -2846756.0
+INFO - #####
+INFO - Liquid Cash: 24055748.019999996
+INFO - Current Value: -1896578783.7
+INFO - #####
+INFO - ####2020-11-06 10:04:00####
+INFO - C_220.0: Shorting 0 shares at 87.0 | Going long 87 shares at 348.22
+INFO - Transaction Net Value: -30295.140000000003
+INFO - underlying: Shorting 87 shares at 348.24 | Going long 0 shares at 136.0
+INFO - Transaction Net Value: 30296.88
+INFO - #####
+INFO - Liquid Cash: 24055749.759999994
+INFO - Current Value: 13685140.919999994
+INFO - #####
+INFO - ####2020-11-06 10:05:00####
+WARNING - The trade order: ('C_359.0', 0, 1509) is not valid!
+INFO - underlying: Shorting 1509 shares at 348.21 | Going long 0 shares at 5.0
+INFO - Transaction Net Value: 525448.89
+INFO - #####
+INFO - Liquid Cash: 24581198.649999995
+INFO - Current Value: 26218300.969999995
+INFO - #####
+INFO - ####2020-11-06 10:06:00####
+INFO - C_325.0: Shorting 0 shares at 10.0 | Going long 10 shares at 348.52
+INFO - Transaction Net Value: -3485.2
+INFO - underlying: Shorting 10 shares at 348.53 | Going long 0 shares at 2640.0
+INFO - Transaction Net Value: 3485.2999999999997
+INFO - #####
+INFO - Liquid Cash: 24581198.749999996
+INFO - Current Value: -186312671.69
+INFO - #####
+INFO - ####2020-11-06 10:07:00####
+WARNING - The trade order: ('C_400.0', 0, 31143) is not valid!
+INFO - underlying: Shorting 31143 shares at 348.65 | Going long 0 shares at 291.0
+INFO - Transaction Net Value: 10858006.95
+INFO - #####
+INFO - Liquid Cash: 35439205.699999996
+INFO - Current Value: 3531856.3399999957
+INFO - #####
+INFO - ####2020-11-06 10:08:00####
+INFO - C_185.0: Shorting 0 shares at 134.0 | Going long 134 shares at 348.62
+INFO - Transaction Net Value: -46715.08
+INFO - underlying: Shorting 134 shares at 348.63 | Going long 0 shares at 1171.0
+INFO - Transaction Net Value: 46716.42
+INFO - #####
+INFO - Liquid Cash: 35439207.04
+INFO - Current Value: -94163155.60000001
+INFO - #####
+INFO - ####2020-11-06 10:09:00####
+INFO - C_340.0: Shorting 25 shares at 57.0 | Going long 0 shares at 349.27
+INFO - Transaction Net Value: 1425.0
+INFO - underlying: Shorting 0 shares at 349.29 | Going long 25 shares at 206.0
+INFO - Transaction Net Value: -5150.0
+INFO - #####
+INFO - Liquid Cash: 35435482.04
+INFO - Current Value: 15477016.85
+INFO - #####
+INFO - ####2020-11-06 10:10:00####
+WARNING - The trade order: ('C_381.0', 0, 13654) is not valid!
+INFO - underlying: Shorting 13654 shares at 349.2 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 4767976.8
+INFO - #####
+INFO - Liquid Cash: 40203458.839999996
+INFO - Current Value: 40147671.41
+INFO - #####
+INFO - ####2020-11-06 10:11:00####
+INFO - C_327.0: Shorting 0 shares at 164.0 | Going long 164 shares at 349.41
+INFO - Transaction Net Value: -57303.240000000005
+INFO - underlying: Shorting 164 shares at 349.42 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 57304.880000000005
+INFO - #####
+INFO - Liquid Cash: 40203460.48
+INFO - Current Value: 41162971.70999999
+INFO - #####
+INFO - ####2020-11-06 10:12:00####
+WARNING - The trade order: ('C_377.0', 0, 496) is not valid!
+INFO - underlying: Shorting 496 shares at 349.48 | Going long 0 shares at 18213.0
+INFO - Transaction Net Value: 173342.08000000002
+INFO - #####
+INFO - Liquid Cash: 40376802.559999995
+INFO - Current Value: -2244264819.03
+INFO - #####
+INFO - ####2020-11-06 10:13:00####
+WARNING - The trade order: ('C_369.0', 0, 27801) is not valid!
+INFO - underlying: Shorting 27801 shares at 349.35 | Going long 0 shares at 20491.0
+INFO - Transaction Net Value: 9712279.350000001
+INFO - #####
+INFO - Liquid Cash: 50089081.91
+INFO - Current Value: -3090028964.1000004
+INFO - #####
+INFO - ####2020-11-06 10:14:00####
+INFO - C_311.0: Shorting 0 shares at 54.0 | Going long 54 shares at 349.45
+INFO - Transaction Net Value: -18870.3
+INFO - underlying: Shorting 54 shares at 349.47 | Going long 0 shares at 298.0
+INFO - Transaction Net Value: 18871.38
+INFO - #####
+INFO - Liquid Cash: 50089082.99
+INFO - Current Value: 4552054.340000002
+INFO - #####
+INFO - ####2020-11-06 10:15:00####
+WARNING - The trade order: ('C_376.0', 0, 974) is not valid!
+INFO - underlying: Shorting 974 shares at 349.43 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 340344.82
+INFO - #####
+INFO - Liquid Cash: 50429427.81
+INFO - Current Value: 51713395.04
+INFO - #####
+INFO - ####2020-11-06 10:16:00####
+INFO - C_342.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.51
+INFO - Transaction Net Value: -8737.75
+INFO - underlying: Shorting 25 shares at 349.53 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8738.25
+INFO - #####
+INFO - Liquid Cash: 50429428.31
+INFO - Current Value: 50872202.84
+INFO - #####
+INFO - ####2020-11-06 10:17:00####
+INFO - C_220.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.56
+INFO - Transaction Net Value: -8739.0
+INFO - underlying: Shorting 25 shares at 349.57 | Going long 0 shares at 27.0
+INFO - Transaction Net Value: 8739.25
+INFO - #####
+INFO - Liquid Cash: 50429428.56
+INFO - Current Value: 48104763.24
+INFO - #####
+INFO - ####2020-11-06 10:18:00####
+WARNING - The trade order: ('C_362.0', 0, 6816) is not valid!
+INFO - underlying: Shorting 6816 shares at 349.56 | Going long 0 shares at 930.0
+INFO - Transaction Net Value: 2382600.96
+INFO - #####
+INFO - Liquid Cash: 52812029.52
+INFO - Current Value: -96830179.82999998
+INFO - #####
+INFO - ####2020-11-06 10:19:00####
+INFO - C_357.0: Shorting 0 shares at 158.0 | Going long 158 shares at 349.57
+INFO - Transaction Net Value: -55232.06
+INFO - underlying: Shorting 158 shares at 349.58 | Going long 0 shares at 371.0
+INFO - Transaction Net Value: 55233.64
+INFO - #####
+INFO - Liquid Cash: 52812031.1
+INFO - Current Value: -6765787.189999999
+INFO - #####
+INFO - ####2020-11-06 10:20:00####
+INFO - C_319.0: Shorting 0 shares at 160.0 | Going long 160 shares at 349.53
+INFO - Transaction Net Value: -55924.799999999996
+INFO - underlying: Shorting 160 shares at 349.54 | Going long 0 shares at 610.0
+INFO - Transaction Net Value: 55926.4
+INFO - #####
+INFO - Liquid Cash: 52812032.7
+INFO - Current Value: -44907818.70999999
+INFO - #####
+INFO - ####2020-11-06 10:21:00####
+WARNING - The trade order: ('C_400.0', 0, 13788) is not valid!
+INFO - underlying: Shorting 13788 shares at 349.36 | Going long 0 shares at 2140.0
+INFO - Transaction Net Value: 4816975.680000001
+INFO - #####
+INFO - Liquid Cash: 57629008.38
+INFO - Current Value: -316644352.57000005
+INFO - #####
+INFO - ####2020-11-06 10:22:00####
+WARNING - The trade order: ('C_405.0', 0, 30733) is not valid!
+INFO - underlying: Shorting 30733 shares at 349.75 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 10748866.75
+INFO - #####
+INFO - Liquid Cash: 68377875.13
+INFO - Current Value: 68720589.32
+INFO - #####
+INFO - ####2020-11-06 10:23:00####
+INFO - C_307.0: Shorting 0 shares at 35.0 | Going long 35 shares at 349.69
+INFO - Transaction Net Value: -12239.15
+INFO - underlying: Shorting 35 shares at 349.71 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 12239.849999999999
+INFO - #####
+INFO - Liquid Cash: 68377875.82999998
+INFO - Current Value: 68295545.89999998
+INFO - #####
+INFO - ####2020-11-06 10:24:00####
+INFO - C_245.0: Shorting 0 shares at 6.0 | Going long 6 shares at 349.75
+INFO - Transaction Net Value: -2098.5
+INFO - underlying: Shorting 6 shares at 349.76 | Going long 0 shares at 483.0
+INFO - Transaction Net Value: 2098.56
+INFO - #####
+INFO - Liquid Cash: 68377875.88999999
+INFO - Current Value: -30644950.860000014
+INFO - #####
+INFO - ####2020-11-06 10:25:00####
+WARNING - The trade order: ('C_371.0', 0, 8422) is not valid!
+INFO - underlying: Shorting 8422 shares at 349.82 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 2946184.04
+INFO - #####
+INFO - Liquid Cash: 71324059.92999999
+INFO - Current Value: 72509603.36
+INFO - #####
+INFO - ####2020-11-06 10:26:00####
+INFO - C_240.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.83
+INFO - Transaction Net Value: -8745.75
+INFO - underlying: Shorting 25 shares at 349.84 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8746.0
+INFO - #####
+INFO - Liquid Cash: 71324060.17999999
+INFO - Current Value: 71663751.66999999
+INFO - #####
+INFO - ####2020-11-06 10:27:00####
+INFO - C_180.0: Shorting 0 shares at 36.0 | Going long 36 shares at 349.85
+INFO - Transaction Net Value: -12594.6
+INFO - underlying: Shorting 36 shares at 349.86 | Going long 0 shares at 148.0
+INFO - Transaction Net Value: 12594.960000000001
+INFO - #####
+INFO - Liquid Cash: 71324060.53999999
+INFO - Current Value: 40192512.08999999
+INFO - #####
+INFO - ####2020-11-06 10:28:00####
+WARNING - The trade order: ('C_410.0', 0, 24258) is not valid!
+INFO - underlying: Shorting 24258 shares at 349.85 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8486661.3
+INFO - #####
+INFO - Liquid Cash: 79810721.83999999
+INFO - Current Value: 80053432.35999998
+INFO - #####
+INFO - ####2020-11-06 10:29:00####
+INFO - C_343.0: Shorting 25 shares at 25.0 | Going long 0 shares at 350.09
+INFO - Transaction Net Value: 625.0
+INFO - underlying: Shorting 0 shares at 350.11 | Going long 25 shares at 6898.0
+INFO - Transaction Net Value: -172450.0
+INFO - #####
+INFO - Liquid Cash: 79638896.83999999
+INFO - Current Value: -1567048935.14
+INFO - #####
+INFO - ####2020-11-06 10:30:00####
+WARNING - The trade order: ('C_374.0', 0, 7410) is not valid!
+INFO - underlying: Shorting 7410 shares at 349.83 | Going long 0 shares at 5.0
+INFO - Transaction Net Value: 2592240.3
+INFO - #####
+INFO - Liquid Cash: 82231137.13999999
+INFO - Current Value: 81467011.09999998
+INFO - #####
+INFO - ####2020-11-06 10:31:00####
+WARNING - The trade order: ('C_377.0', 0, 10905) is not valid!
+INFO - underlying: Shorting 10905 shares at 349.86 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 3815223.3000000003
+INFO - #####
+INFO - Liquid Cash: 86046360.43999998
+INFO - Current Value: 86137971.95999998
+INFO - #####
+INFO - ####2020-11-06 10:32:00####
+INFO - C_306.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.83
+INFO - Transaction Net Value: -8745.75
+INFO - underlying: Shorting 25 shares at 349.85 | Going long 0 shares at 110.0
+INFO - Transaction Net Value: 8746.25
+INFO - #####
+INFO - Liquid Cash: 86046360.93999998
+INFO - Current Value: 58333355.679999985
+INFO - #####
+INFO - ####2020-11-06 10:33:00####
+INFO - C_344.0: Shorting 0 shares at 95.0 | Going long 95 shares at 349.5
+INFO - Transaction Net Value: -33202.5
+INFO - underlying: Shorting 95 shares at 349.51 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 33203.45
+INFO - #####
+INFO - Liquid Cash: 86046361.88999999
+INFO - Current Value: 86737761.88999999
+INFO - #####
+INFO - ####2020-11-06 10:34:00####
+WARNING - The trade order: ('C_405.0', 0, 10692) is not valid!
+INFO - underlying: Shorting 10692 shares at 349.58 | Going long 0 shares at 13.0
+INFO - Transaction Net Value: 3737709.36
+INFO - #####
+INFO - Liquid Cash: 89784071.24999999
+INFO - Current Value: 93709844.70999998
+INFO - #####
+INFO - ####2020-11-06 10:35:00####
+WARNING - The trade order: ('C_420.0', 0, 52564) is not valid!
+INFO - underlying: Shorting 52564 shares at 349.54 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 18373220.560000002
+INFO - #####
+INFO - Liquid Cash: 108157291.80999999
+INFO - Current Value: 108409372.14999998
+INFO - #####
+INFO - ####2020-11-06 10:36:00####
+INFO - C_312.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.74
+INFO - Transaction Net Value: -8743.5
+INFO - underlying: Shorting 25 shares at 349.75 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8743.75
+INFO - #####
+INFO - Liquid Cash: 108157292.05999999
+INFO - Current Value: 109019588.77999999
+INFO - #####
+INFO - ####2020-11-06 10:37:00####
+WARNING - The trade order: ('C_410.0', 0, 42166) is not valid!
+INFO - underlying: Shorting 42166 shares at 349.85 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 14751775.100000001
+INFO - #####
+INFO - Liquid Cash: 122909067.16
+INFO - Current Value: 122306943.89999999
+INFO - #####
+INFO - ####2020-11-06 10:38:00####
+INFO - C_338.0: Shorting 0 shares at 41.0 | Going long 41 shares at 349.78
+INFO - Transaction Net Value: -14340.98
+INFO - underlying: Shorting 41 shares at 349.79 | Going long 0 shares at 1362.0
+INFO - Transaction Net Value: 14341.390000000001
+INFO - #####
+INFO - Liquid Cash: 122909067.57
+INFO - Current Value: -370546821.59000003
+INFO - #####
+INFO - ####2020-11-06 10:39:00####
+INFO - C_356.0: Shorting 0 shares at 60.0 | Going long 60 shares at 349.41
+INFO - Transaction Net Value: -20964.600000000002
+INFO - underlying: Shorting 60 shares at 349.42 | Going long 0 shares at 86.0
+INFO - Transaction Net Value: 20965.2
+INFO - #####
+INFO - Liquid Cash: 122909068.17
+INFO - Current Value: 95886387.15
+INFO - #####
+INFO - ####2020-11-06 10:40:00####
+INFO - C_327.0: Shorting 0 shares at 157.0 | Going long 157 shares at 349.35
+INFO - Transaction Net Value: -54847.950000000004
+INFO - underlying: Shorting 157 shares at 349.36 | Going long 0 shares at 19.0
+INFO - Transaction Net Value: 54849.520000000004
+INFO - #####
+INFO - Liquid Cash: 122909069.74
+INFO - Current Value: 116785631.04
+INFO - #####
+INFO - ####2020-11-06 10:41:00####
+INFO - C_346.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.37
+INFO - Transaction Net Value: -8734.25
+INFO - underlying: Shorting 25 shares at 349.38 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 8734.5
+INFO - #####
+INFO - Liquid Cash: 122909069.99
+INFO - Current Value: 123107738.85
+INFO - #####
+INFO - ####2020-11-06 10:42:00####
+INFO - C_301.0: Shorting 0 shares at 205.0 | Going long 205 shares at 349.44
+INFO - Transaction Net Value: -71635.2
+INFO - underlying: Shorting 205 shares at 349.45 | Going long 0 shares at 1451.0
+INFO - Transaction Net Value: 71637.25
+INFO - #####
+INFO - Liquid Cash: 122909072.03999999
+INFO - Current Value: -396631463.64000005
+INFO - #####
+INFO - ####2020-11-06 10:43:00####
+WARNING - The trade order: ('C_366.0', 0, 2315) is not valid!
+INFO - underlying: Shorting 2315 shares at 349.6 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 809324.0
+INFO - #####
+INFO - Liquid Cash: 123718396.03999999
+INFO - Current Value: 124282836.27999999
+INFO - #####
+INFO - ####2020-11-06 10:44:00####
+INFO - C_347.5: Shorting 0 shares at 229.0 | Going long 229 shares at 349.5
+INFO - Transaction Net Value: -80035.5
+INFO - underlying: Shorting 229 shares at 349.52 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 80040.08
+INFO - #####
+INFO - Liquid Cash: 123718400.61999999
+INFO - Current Value: 124597423.61999999
+INFO - #####
+INFO - ####2020-11-06 10:45:00####
+WARNING - The trade order: ('C_367.0', 0, 3698) is not valid!
+INFO - underlying: Shorting 3698 shares at 349.72 | Going long 0 shares at 227.0
+INFO - Transaction Net Value: 1293264.56
+INFO - #####
+INFO - Liquid Cash: 125011665.17999999
+INFO - Current Value: 41548648.559999995
+INFO - #####
+INFO - ####2020-11-06 10:46:00####
+WARNING - The trade order: ('C_470.0', 0, 37777) is not valid!
+INFO - underlying: Shorting 37777 shares at 349.78 | Going long 0 shares at 9.0
+INFO - Transaction Net Value: 13213639.059999999
+INFO - #####
+INFO - Liquid Cash: 138225304.23999998
+INFO - Current Value: 135396119.29999998
+INFO - #####
+INFO - ####2020-11-06 10:47:00####
+INFO - C_265.0: Shorting 0 shares at 35.0 | Going long 35 shares at 349.61
+INFO - Transaction Net Value: -12236.35
+INFO - underlying: Shorting 35 shares at 349.62 | Going long 0 shares at 1640.0
+INFO - Transaction Net Value: 12236.7
+INFO - #####
+INFO - Liquid Cash: 138225304.58999997
+INFO - Current Value: -522339885.83000004
+INFO - #####
+INFO - ####2020-11-06 10:48:00####
+INFO - C_353.0: Shorting 0 shares at 202.0 | Going long 202 shares at 349.75
+INFO - Transaction Net Value: -70649.5
+INFO - underlying: Shorting 202 shares at 349.76 | Going long 0 shares at 20.0
+INFO - Transaction Net Value: 70651.52
+INFO - #####
+INFO - Liquid Cash: 138225306.60999998
+INFO - Current Value: 130769933.10999998
+INFO - #####
+INFO - ####2020-11-06 10:49:00####
+WARNING - The trade order: ('C_382.0', 0, 7699) is not valid!
+INFO - underlying: Shorting 7699 shares at 349.81 | Going long 0 shares at 2726.0
+INFO - Transaction Net Value: 2693187.19
+INFO - #####
+INFO - Liquid Cash: 140918493.79999998
+INFO - Current Value: -982913467.58
+INFO - #####
+INFO - ####2020-11-06 10:50:00####
+INFO - C_320.0: Shorting 0 shares at 35.0 | Going long 35 shares at 349.86
+INFO - Transaction Net Value: -12245.1
+INFO - underlying: Shorting 35 shares at 349.88 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12245.8
+INFO - #####
+INFO - Liquid Cash: 140918494.5
+INFO - Current Value: 141724632.58
+INFO - #####
+INFO - ####2020-11-06 10:51:00####
+INFO - C_308.0: Shorting 0 shares at 70.0 | Going long 70 shares at 349.92
+INFO - Transaction Net Value: -24494.4
+INFO - underlying: Shorting 70 shares at 349.93 | Going long 0 shares at 4981.0
+INFO - Transaction Net Value: 24495.100000000002
+INFO - #####
+INFO - Liquid Cash: 140918495.2
+INFO - Current Value: -1925915075.04
+INFO - #####
+INFO - ####2020-11-06 10:52:00####
+INFO - #####
+INFO - Liquid Cash: 140918495.2
+INFO - Current Value: 134456694.15999997
+INFO - #####
+INFO - ####2020-11-06 10:53:00####
+INFO - C_307.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.12
+INFO - Transaction Net Value: -12254.2
+INFO - underlying: Shorting 35 shares at 350.14 | Going long 0 shares at 1657.0
+INFO - Transaction Net Value: 12254.9
+INFO - #####
+INFO - Liquid Cash: 140918495.9
+INFO - Current Value: -540694567.74
+INFO - #####
+INFO - ####2020-11-06 10:54:00####
+WARNING - The trade order: ('C_369.0', 0, 1099) is not valid!
+INFO - underlying: Shorting 1099 shares at 350.42 | Going long 0 shares at 6178.0
+INFO - Transaction Net Value: 385111.58
+INFO - #####
+INFO - Liquid Cash: 141303607.48000002
+INFO - Current Value: -2430165265.32
+INFO - #####
+INFO - ####2020-11-06 10:55:00####
+INFO - C_221.0: Shorting 0 shares at 87.0 | Going long 87 shares at 350.43
+INFO - Transaction Net Value: -30487.41
+INFO - underlying: Shorting 87 shares at 350.44 | Going long 0 shares at 108.0
+INFO - Transaction Net Value: 30488.28
+INFO - #####
+INFO - Liquid Cash: 141303608.35000002
+INFO - Current Value: 99701546.89000003
+INFO - #####
+INFO - ####2020-11-06 10:56:00####
+WARNING - The trade order: ('C_369.0', 0, 880) is not valid!
+INFO - underlying: Shorting 880 shares at 350.37 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 308325.6
+INFO - #####
+INFO - Liquid Cash: 141611933.95000002
+INFO - Current Value: 147731058.25000003
+INFO - #####
+INFO - ####2020-11-06 10:57:00####
+WARNING - The trade order: ('C_370.0', 0, 10223) is not valid!
+INFO - underlying: Shorting 10223 shares at 350.19 | Going long 0 shares at 298.0
+INFO - Transaction Net Value: 3579992.37
+INFO - #####
+INFO - Liquid Cash: 145191926.32000002
+INFO - Current Value: 18310933.360000025
+INFO - #####
+INFO - ####2020-11-06 10:58:00####
+WARNING - The trade order: ('C_405.0', 0, 6918) is not valid!
+INFO - underlying: Shorting 6918 shares at 350.14 | Going long 0 shares at 533.0
+INFO - Transaction Net Value: 2422268.52
+INFO - #####
+INFO - Liquid Cash: 147614194.84000003
+INFO - Current Value: -83611587.79999997
+INFO - #####
+INFO - ####2020-11-06 10:59:00####
+WARNING - The trade order: ('C_430.0', 0, 46315) is not valid!
+INFO - underlying: Shorting 46315 shares at 348.96 | Going long 0 shares at 1214.0
+INFO - Transaction Net Value: 16162082.399999999
+INFO - #####
+INFO - Liquid Cash: 163776277.24000004
+INFO - Current Value: -413298242.65999997
+INFO - #####
+INFO - ####2020-11-06 11:00:00####
+INFO - C_347.0: Shorting 0 shares at 31.0 | Going long 31 shares at 348.87
+INFO - Transaction Net Value: -10814.97
+INFO - underlying: Shorting 31 shares at 348.88 | Going long 0 shares at 177.0
+INFO - Transaction Net Value: 10815.28
+INFO - #####
+INFO - Liquid Cash: 163776277.55000004
+INFO - Current Value: 78983788.41000004
+INFO - #####
+INFO - ####2020-11-06 11:01:00####
+INFO - C_317.0: Shorting 0 shares at 1.0 | Going long 1 shares at 349.08
+INFO - Transaction Net Value: -349.08
+INFO - underlying: Shorting 1 shares at 349.09 | Going long 0 shares at 54.0
+INFO - Transaction Net Value: 349.09
+INFO - #####
+INFO - Liquid Cash: 163776277.56000003
+INFO - Current Value: 138086958.80000004
+INFO - #####
+INFO - ####2020-11-06 11:02:00####
+INFO - C_317.0: Shorting 0 shares at 10.0 | Going long 10 shares at 349.34
+INFO - Transaction Net Value: -3493.3999999999996
+INFO - underlying: Shorting 10 shares at 349.35 | Going long 0 shares at 439.0
+INFO - Transaction Net Value: 3493.5
+INFO - #####
+INFO - Liquid Cash: 163776277.66000003
+INFO - Current Value: -46055156.81999997
+INFO - #####
+INFO - ####2020-11-06 11:03:00####
+WARNING - The trade order: ('C_384.0', 0, 19421) is not valid!
+INFO - underlying: Shorting 19421 shares at 349.41 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 6785891.61
+INFO - #####
+INFO - Liquid Cash: 170562169.27000004
+INFO - Current Value: 171246500.47000003
+INFO - #####
+INFO - ####2020-11-06 11:04:00####
+INFO - C_336.0: Shorting 0 shares at 77.0 | Going long 77 shares at 349.55
+INFO - Transaction Net Value: -26915.350000000002
+INFO - underlying: Shorting 77 shares at 349.56 | Going long 0 shares at 665.0
+INFO - Transaction Net Value: 26916.12
+INFO - #####
+INFO - Liquid Cash: 170562170.04000005
+INFO - Current Value: -157662820.05999997
+INFO - #####
+INFO - ####2020-11-06 11:05:00####
+INFO - C_343.0: Shorting 0 shares at 70.0 | Going long 70 shares at 349.96
+INFO - Transaction Net Value: -24497.199999999997
+INFO - underlying: Shorting 70 shares at 349.98 | Going long 0 shares at 120.0
+INFO - Transaction Net Value: 24498.600000000002
+INFO - #####
+INFO - Liquid Cash: 170562171.44000006
+INFO - Current Value: 110808978.32000005
+INFO - #####
+INFO - ####2020-11-06 11:06:00####
+WARNING - The trade order: ('C_377.0', 0, 4440) is not valid!
+INFO - underlying: Shorting 4440 shares at 350.1 | Going long 0 shares at 1510.0
+INFO - Transaction Net Value: 1554444.0
+INFO - #####
+INFO - Liquid Cash: 172116615.44000006
+INFO - Current Value: -589738587.29
+INFO - #####
+INFO - ####2020-11-06 11:07:00####
+WARNING - The trade order: ('C_372.0', 0, 420) is not valid!
+INFO - underlying: Shorting 420 shares at 350.07 | Going long 0 shares at 1014.0
+INFO - Transaction Net Value: 147029.4
+INFO - #####
+INFO - Liquid Cash: 172263644.84000006
+INFO - Current Value: -333819569.97999996
+INFO - #####
+INFO - ####2020-11-06 11:08:00####
+WARNING - The trade order: ('C_450.0', 0, 12071) is not valid!
+INFO - underlying: Shorting 12071 shares at 350.13 | Going long 0 shares at 177.0
+INFO - Transaction Net Value: 4226419.2299999995
+INFO - #####
+INFO - Liquid Cash: 176490064.07000005
+INFO - Current Value: 86936689.43000005
+INFO - #####
+INFO - ####2020-11-06 11:09:00####
+INFO - C_304.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.22
+INFO - Transaction Net Value: -8755.5
+INFO - underlying: Shorting 25 shares at 350.23 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 8755.75
+INFO - #####
+INFO - Liquid Cash: 176490064.32000005
+INFO - Current Value: 176699521.98000005
+INFO - #####
+INFO - ####2020-11-06 11:10:00####
+INFO - C_260.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.55
+INFO - Transaction Net Value: -8763.75
+INFO - underlying: Shorting 25 shares at 350.56 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8764.0
+INFO - #####
+INFO - Liquid Cash: 176490064.57000005
+INFO - Current Value: 176645980.22000003
+INFO - #####
+INFO - ####2020-11-06 11:11:00####
+INFO - C_332.0: Shorting 0 shares at 39.0 | Going long 39 shares at 350.24
+INFO - Transaction Net Value: -13659.36
+INFO - underlying: Shorting 39 shares at 350.25 | Going long 0 shares at 121.0
+INFO - Transaction Net Value: 13659.75
+INFO - #####
+INFO - Liquid Cash: 176490064.96000004
+INFO - Current Value: 114359799.68000004
+INFO - #####
+INFO - ####2020-11-06 11:12:00####
+INFO - C_275.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.28
+INFO - Transaction Net Value: -12259.8
+INFO - underlying: Shorting 35 shares at 350.29 | Going long 0 shares at 4.0
+INFO - Transaction Net Value: 12260.150000000001
+INFO - #####
+INFO - Liquid Cash: 176490065.31000003
+INFO - Current Value: 175015037.15000004
+INFO - #####
+INFO - ####2020-11-06 11:13:00####
+INFO - C_364.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.21
+INFO - Transaction Net Value: -8755.25
+INFO - underlying: Shorting 25 shares at 350.22 | Going long 0 shares at 8407.0
+INFO - Transaction Net Value: 8755.5
+INFO - #####
+INFO - Liquid Cash: 176490065.56000003
+INFO - Current Value: -4173189715.8100004
+INFO - #####
+INFO - ####2020-11-06 11:14:00####
+INFO - #####
+INFO - Liquid Cash: 176490065.56000003
+INFO - Current Value: 141847414.87000003
+INFO - #####
+INFO - ####2020-11-06 11:15:00####
+INFO - C_265.0: Shorting 0 shares at 160.0 | Going long 160 shares at 349.85
+INFO - Transaction Net Value: -55976.0
+INFO - underlying: Shorting 160 shares at 349.86 | Going long 0 shares at 4002.0
+INFO - Transaction Net Value: 55977.600000000006
+INFO - #####
+INFO - Liquid Cash: 176490067.16000003
+INFO - Current Value: -1894182977.2899997
+INFO - #####
+INFO - ####2020-11-06 11:16:00####
+WARNING - The trade order: ('C_384.0', 0, 5770) is not valid!
+INFO - underlying: Shorting 5770 shares at 349.72 | Going long 0 shares at 3.0
+INFO - Transaction Net Value: 2017884.4000000001
+INFO - #####
+INFO - Liquid Cash: 178507951.56000003
+INFO - Current Value: 178420109.69000003
+INFO - #####
+INFO - ####2020-11-06 11:17:00####
+INFO - #####
+INFO - Liquid Cash: 178507951.56000003
+INFO - Current Value: -522355189.81999993
+INFO - #####
+INFO - ####2020-11-06 11:18:00####
+WARNING - The trade order: ('C_390.0', 0, 294) is not valid!
+INFO - underlying: Shorting 294 shares at 349.98 | Going long 0 shares at 1860.0
+INFO - Transaction Net Value: 102894.12000000001
+INFO - #####
+INFO - Liquid Cash: 178610845.68000004
+INFO - Current Value: -794366048.41
+INFO - #####
+INFO - ####2020-11-06 11:19:00####
+WARNING - The trade order: ('C_400.0', 0, 9405) is not valid!
+INFO - underlying: Shorting 9405 shares at 350.03 | Going long 0 shares at 227.0
+INFO - Transaction Net Value: 3292032.15
+INFO - #####
+INFO - Liquid Cash: 181902877.83000004
+INFO - Current Value: 61174754.860000044
+INFO - #####
+INFO - ####2020-11-06 11:20:00####
+INFO - C_323.0: Shorting 0 shares at 28.0 | Going long 28 shares at 350.02
+INFO - Transaction Net Value: -9800.56
+INFO - underlying: Shorting 28 shares at 350.04 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 9801.12
+INFO - #####
+INFO - Liquid Cash: 181902878.39000005
+INFO - Current Value: 183562547.45000005
+INFO - #####
+INFO - ####2020-11-06 11:21:00####
+INFO - C_314.0: Shorting 0 shares at 29.0 | Going long 29 shares at 349.8
+INFO - Transaction Net Value: -10144.2
+INFO - underlying: Shorting 29 shares at 349.82 | Going long 0 shares at 25.0
+INFO - Transaction Net Value: 10144.78
+INFO - #####
+INFO - Liquid Cash: 181902878.97000006
+INFO - Current Value: 168840230.37000003
+INFO - #####
+INFO - ####2020-11-06 11:22:00####
+INFO - C_295.0: Shorting 0 shares at 35.0 | Going long 35 shares at 349.75
+INFO - Transaction Net Value: -12241.25
+INFO - underlying: Shorting 35 shares at 349.76 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12241.6
+INFO - #####
+INFO - Liquid Cash: 181902879.32000005
+INFO - Current Value: 183156545.57000005
+INFO - #####
+INFO - ####2020-11-06 11:23:00####
+INFO - C_280.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.74
+INFO - Transaction Net Value: -8743.5
+INFO - underlying: Shorting 25 shares at 349.75 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8743.75
+INFO - #####
+INFO - Liquid Cash: 181902879.57000005
+INFO - Current Value: 182459018.79000005
+INFO - #####
+INFO - ####2020-11-06 11:24:00####
+INFO - C_207.0: Shorting 0 shares at 193.0 | Going long 193 shares at 349.7
+INFO - Transaction Net Value: -67492.09999999999
+INFO - underlying: Shorting 193 shares at 349.71 | Going long 0 shares at 24541.0
+INFO - Transaction Net Value: 67494.03
+INFO - #####
+INFO - Liquid Cash: 181902881.50000006
+INFO - Current Value: -12906617084.400002
+INFO - #####
+INFO - ####2020-11-06 11:25:00####
+INFO - C_350.0: Shorting 0 shares at 136.0 | Going long 136 shares at 349.74
+INFO - Transaction Net Value: -47564.64
+INFO - underlying: Shorting 136 shares at 349.76 | Going long 0 shares at 158.0
+INFO - Transaction Net Value: 47567.36
+INFO - #####
+INFO - Liquid Cash: 181902884.2200001
+INFO - Current Value: 99264275.44000009
+INFO - #####
+INFO - ####2020-11-06 11:26:00####
+INFO - C_317.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.7
+INFO - Transaction Net Value: -8742.5
+INFO - underlying: Shorting 25 shares at 349.71 | Going long 0 shares at 385.0
+INFO - Transaction Net Value: 8742.75
+INFO - #####
+INFO - Liquid Cash: 181902884.4700001
+INFO - Current Value: -22737715.42999991
+INFO - #####
+INFO - ####2020-11-06 11:27:00####
+INFO - C_340.0: Shorting 0 shares at 277.0 | Going long 277 shares at 349.94
+INFO - Transaction Net Value: -96933.38
+INFO - underlying: Shorting 277 shares at 349.95 | Going long 0 shares at 249.0
+INFO - Transaction Net Value: 96936.15
+INFO - #####
+INFO - Liquid Cash: 181902887.2400001
+INFO - Current Value: 50101657.5600001
+INFO - #####
+INFO - ####2020-11-06 11:28:00####
+INFO - C_325.0: Shorting 0 shares at 43.0 | Going long 43 shares at 350.01
+INFO - Transaction Net Value: -15050.43
+INFO - underlying: Shorting 43 shares at 350.02 | Going long 0 shares at 10666.0
+INFO - Transaction Net Value: 15050.859999999999
+INFO - #####
+INFO - Liquid Cash: 181902887.6700001
+INFO - Current Value: -5511203266.05
+INFO - #####
+INFO - ####2020-11-06 11:29:00####
+INFO - C_245.0: Shorting 0 shares at 94.0 | Going long 94 shares at 350.04
+INFO - Transaction Net Value: -32903.76
+INFO - underlying: Shorting 94 shares at 350.05 | Going long 0 shares at 3142.0
+INFO - Transaction Net Value: 32904.700000000004
+INFO - #####
+INFO - Liquid Cash: 181902888.6100001
+INFO - Current Value: -1494356633.27
+INFO - #####
+INFO - ####2020-11-06 11:30:00####
+INFO - C_355.0: Shorting 0 shares at 215.0 | Going long 215 shares at 350.06
+INFO - Transaction Net Value: -75262.9
+INFO - underlying: Shorting 215 shares at 350.07 | Going long 0 shares at 1067.0
+INFO - Transaction Net Value: 75265.05
+INFO - #####
+INFO - Liquid Cash: 181902890.7600001
+INFO - Current Value: -387494055.5599999
+INFO - #####
+INFO - ####2020-11-06 11:31:00####
+INFO - C_346.0: Shorting 0 shares at 63.0 | Going long 63 shares at 350.09
+INFO - Transaction Net Value: -22055.67
+INFO - underlying: Shorting 63 shares at 350.1 | Going long 0 shares at 373.0
+INFO - Transaction Net Value: 22056.300000000003
+INFO - #####
+INFO - Liquid Cash: 181902891.39000013
+INFO - Current Value: -15248824.089999864
+INFO - #####
+INFO - ####2020-11-06 11:32:00####
+INFO - C_327.5: Shorting 0 shares at 20.0 | Going long 20 shares at 350.01
+INFO - Transaction Net Value: -7000.2
+INFO - underlying: Shorting 20 shares at 350.02 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 7000.4
+INFO - #####
+INFO - Liquid Cash: 181902891.59000015
+INFO - Current Value: 184889866.87000015
+INFO - #####
+INFO - ####2020-11-06 11:33:00####
+WARNING - The trade order: ('C_372.0', 0, 31190) is not valid!
+INFO - underlying: Shorting 31190 shares at 349.97 | Going long 0 shares at 1191.0
+INFO - Transaction Net Value: 10915564.3
+INFO - #####
+INFO - Liquid Cash: 192818455.89000016
+INFO - Current Value: -480095797.22999984
+INFO - #####
+INFO - ####2020-11-06 11:34:00####
+INFO - C_165.0: Shorting 0 shares at 98.0 | Going long 98 shares at 350.11
+INFO - Transaction Net Value: -34310.78
+INFO - underlying: Shorting 98 shares at 350.13 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 34312.74
+INFO - #####
+INFO - Liquid Cash: 192818457.85000017
+INFO - Current Value: 197130663.9300002
+INFO - #####
+INFO - ####2020-11-06 11:35:00####
+INFO - C_175.0: Shorting 0 shares at 58.0 | Going long 58 shares at 350.14
+INFO - Transaction Net Value: -20308.12
+INFO - underlying: Shorting 58 shares at 350.16 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 20309.280000000002
+INFO - #####
+INFO - Liquid Cash: 192818459.01000017
+INFO - Current Value: 195100557.93000016
+INFO - #####
+INFO - ####2020-11-06 11:36:00####
+WARNING - The trade order: ('C_420.0', 0, 28868) is not valid!
+INFO - underlying: Shorting 28868 shares at 350.24 | Going long 0 shares at 4.0
+INFO - Transaction Net Value: 10110728.32
+INFO - #####
+INFO - Liquid Cash: 202929187.33000016
+INFO - Current Value: 201522476.77000016
+INFO - #####
+INFO - ####2020-11-06 11:37:00####
+WARNING - The trade order: ('C_373.0', 0, 28676) is not valid!
+INFO - underlying: Shorting 28676 shares at 350.31 | Going long 0 shares at 7.0
+INFO - Transaction Net Value: 10045489.56
+INFO - #####
+INFO - Liquid Cash: 212974676.89000016
+INFO - Current Value: 209832108.29000014
+INFO - #####
+INFO - ####2020-11-06 11:38:00####
+INFO - C_319.0: Shorting 0 shares at 160.0 | Going long 160 shares at 350.26
+INFO - Transaction Net Value: -56041.6
+INFO - underlying: Shorting 160 shares at 350.27 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 56043.2
+INFO - #####
+INFO - Liquid Cash: 212974678.49000016
+INFO - Current Value: 214351584.77000016
+INFO - #####
+INFO - ####2020-11-06 11:39:00####
+INFO - C_347.0: Shorting 217 shares at 27.0 | Going long 0 shares at 350.37
+INFO - Transaction Net Value: 5859.0
+INFO - underlying: Shorting 0 shares at 350.38 | Going long 217 shares at 0.0
+INFO - Transaction Net Value: 0.0
+INFO - #####
+INFO - Liquid Cash: 212980537.49000016
+INFO - Current Value: 214085952.03000018
+INFO - #####
+INFO - ####2020-11-06 11:40:00####
+INFO - C_255.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.42
+INFO - Transaction Net Value: -8760.5
+INFO - underlying: Shorting 25 shares at 350.44 | Going long 0 shares at 354.0
+INFO - Transaction Net Value: 8761.0
+INFO - #####
+INFO - Liquid Cash: 212980537.99000016
+INFO - Current Value: -7005462.369999841
+INFO - #####
+INFO - ####2020-11-06 11:41:00####
+INFO - C_352.0: Shorting 0 shares at 65.0 | Going long 65 shares at 350.42
+INFO - Transaction Net Value: -22777.3
+INFO - underlying: Shorting 65 shares at 350.43 | Going long 0 shares at 374.0
+INFO - Transaction Net Value: 22777.95
+INFO - #####
+INFO - Liquid Cash: 212980538.64000013
+INFO - Current Value: -19557882.719999865
+INFO - #####
+INFO - ####2020-11-06 11:42:00####
+WARNING - The trade order: ('C_380.0', 0, 29405) is not valid!
+INFO - underlying: Shorting 29405 shares at 350.37 | Going long 0 shares at 120.0
+INFO - Transaction Net Value: 10302629.85
+INFO - #####
+INFO - Liquid Cash: 223283168.49000013
+INFO - Current Value: 146137171.19000015
+INFO - #####
+INFO - ####2020-11-06 11:43:00####
+INFO - C_312.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.47
+INFO - Transaction Net Value: -12266.45
+INFO - underlying: Shorting 35 shares at 350.48 | Going long 0 shares at 1188.0
+INFO - Transaction Net Value: 12266.800000000001
+INFO - #####
+INFO - Liquid Cash: 223283168.84000015
+INFO - Current Value: -551376695.4199998
+INFO - #####
+INFO - ####2020-11-06 11:44:00####
+WARNING - The trade order: ('C_386.0', 0, 5354) is not valid!
+INFO - underlying: Shorting 5354 shares at 350.46 | Going long 0 shares at 5202.0
+INFO - Transaction Net Value: 1876362.8399999999
+INFO - #####
+INFO - Liquid Cash: 225159531.68000016
+INFO - Current Value: -3194631443.419999
+INFO - #####
+INFO - ####2020-11-06 11:45:00####
+INFO - #####
+INFO - Liquid Cash: 225159531.68000016
+INFO - Current Value: 233601005.22000018
+INFO - #####
+INFO - ####2020-11-06 11:46:00####
+WARNING - The trade order: ('C_382.0', 0, 6606) is not valid!
+INFO - underlying: Shorting 6606 shares at 350.3 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 2314081.8000000003
+INFO - #####
+INFO - Liquid Cash: 227473613.48000017
+INFO - Current Value: 228843176.24000016
+INFO - #####
+INFO - ####2020-11-06 11:47:00####
+INFO - C_300.0: Shorting 0 shares at 47.0 | Going long 47 shares at 350.44
+INFO - Transaction Net Value: -16470.68
+INFO - underlying: Shorting 47 shares at 350.45 | Going long 0 shares at 624.0
+INFO - Transaction Net Value: 16471.149999999998
+INFO - #####
+INFO - Liquid Cash: 227473613.95000017
+INFO - Current Value: -186608728.5699998
+INFO - #####
+INFO - ####2020-11-06 11:48:00####
+INFO - C_330.0: Shorting 0 shares at 86.0 | Going long 86 shares at 350.46
+INFO - Transaction Net Value: -30139.559999999998
+INFO - underlying: Shorting 86 shares at 350.48 | Going long 0 shares at 1566.0
+INFO - Transaction Net Value: 30141.280000000002
+INFO - #####
+INFO - Liquid Cash: 227473615.67000017
+INFO - Current Value: -812545097.0099998
+INFO - #####
+INFO - ####2020-11-06 11:49:00####
+WARNING - The trade order: ('C_372.0', 0, 8902) is not valid!
+INFO - underlying: Shorting 8902 shares at 350.35 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 3118815.7
+INFO - #####
+INFO - Liquid Cash: 230592431.37000015
+INFO - Current Value: 230022952.23000017
+INFO - #####
+INFO - ####2020-11-06 11:50:00####
+WARNING - The trade order: ('C_400.0', 0, 13475) is not valid!
+INFO - underlying: Shorting 13475 shares at 350.33 | Going long 0 shares at 42.0
+INFO - Transaction Net Value: 4720696.75
+INFO - #####
+INFO - Liquid Cash: 235313128.12000015
+INFO - Current Value: 209560642.56000015
+INFO - #####
+INFO - ####2020-11-06 11:51:00####
+INFO - C_348.0: Shorting 0 shares at 166.0 | Going long 166 shares at 350.39
+INFO - Transaction Net Value: -58164.74
+INFO - underlying: Shorting 166 shares at 350.4 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 58166.399999999994
+INFO - #####
+INFO - Liquid Cash: 235313129.78000015
+INFO - Current Value: 235885259.16000015
+INFO - #####
+INFO - ####2020-11-06 11:52:00####
+INFO - C_326.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.57
+INFO - Transaction Net Value: -10166.53
+INFO - underlying: Shorting 29 shares at 350.58 | Going long 0 shares at 1406.0
+INFO - Transaction Net Value: 10166.82
+INFO - #####
+INFO - Liquid Cash: 235313130.07000014
+INFO - Current Value: -730197324.9899998
+INFO - #####
+INFO - ####2020-11-06 11:53:00####
+WARNING - The trade order: ('C_368.0', 0, 22113) is not valid!
+INFO - underlying: Shorting 22113 shares at 350.76 | Going long 0 shares at 27.0
+INFO - Transaction Net Value: 7756355.88
+INFO - #####
+INFO - Liquid Cash: 243069485.95000014
+INFO - Current Value: 227276272.03000015
+INFO - #####
+INFO - ####2020-11-06 11:54:00####
+WARNING - The trade order: ('C_360.0', 0, 3575) is not valid!
+INFO - underlying: Shorting 3575 shares at 350.59 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 1253359.25
+INFO - #####
+INFO - Liquid Cash: 244322845.20000014
+INFO - Current Value: 252171070.56000015
+INFO - #####
+INFO - ####2020-11-06 11:55:00####
+INFO - C_318.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.42
+INFO - Transaction Net Value: -10162.18
+INFO - underlying: Shorting 29 shares at 350.43 | Going long 0 shares at 25.0
+INFO - Transaction Net Value: 10162.47
+INFO - #####
+INFO - Liquid Cash: 244322845.49000013
+INFO - Current Value: 228126866.1300001
+INFO - #####
+INFO - ####2020-11-06 11:56:00####
+INFO - C_344.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.19
+INFO - Transaction Net Value: -8754.75
+INFO - underlying: Shorting 25 shares at 350.21 | Going long 0 shares at 592.0
+INFO - Transaction Net Value: 8755.25
+INFO - #####
+INFO - Liquid Cash: 244322845.99000013
+INFO - Current Value: -177380302.02999985
+INFO - #####
+INFO - ####2020-11-06 11:57:00####
+WARNING - The trade order: ('C_371.0', 0, 1826) is not valid!
+INFO - underlying: Shorting 1826 shares at 350.04 | Going long 0 shares at 68.0
+INFO - Transaction Net Value: 639173.04
+INFO - #####
+INFO - Liquid Cash: 244962019.03000012
+INFO - Current Value: 196880390.87000012
+INFO - #####
+INFO - ####2020-11-06 11:58:00####
+INFO - C_306.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.17
+INFO - Transaction Net Value: -8754.25
+INFO - underlying: Shorting 25 shares at 350.17 | Going long 0 shares at 20.0
+INFO - Transaction Net Value: 8754.25
+INFO - #####
+INFO - Liquid Cash: 244962019.03000012
+INFO - Current Value: 236571880.1700001
+INFO - #####
+INFO - ####2020-11-06 11:59:00####
+INFO - C_341.0: Shorting 0 shares at 220.0 | Going long 220 shares at 350.26
+INFO - Transaction Net Value: -77057.2
+INFO - underlying: Shorting 220 shares at 350.28 | Going long 0 shares at 33.0
+INFO - Transaction Net Value: 77061.59999999999
+INFO - #####
+INFO - Liquid Cash: 244962023.43000013
+INFO - Current Value: 222451872.91000012
+INFO - #####
+INFO - ####2020-11-06 12:00:00####
+INFO - C_236.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.36
+INFO - Transaction Net Value: -8759.0
+INFO - underlying: Shorting 25 shares at 350.38 | Going long 0 shares at 19.0
+INFO - Transaction Net Value: 8759.5
+INFO - #####
+INFO - Liquid Cash: 244962023.93000013
+INFO - Current Value: 233751396.21000013
+INFO - #####
+INFO - ####2020-11-06 12:01:00####
+WARNING - The trade order: ('C_361.0', 0, 60) is not valid!
+INFO - underlying: Shorting 60 shares at 350.57 | Going long 0 shares at 4477.0
+INFO - Transaction Net Value: 21034.2
+INFO - #####
+INFO - Liquid Cash: 244983058.1300001
+INFO - Current Value: -2954428669.99
+INFO - #####
+INFO - ####2020-11-06 12:02:00####
+WARNING - The trade order: ('C_360.0', 0, 1432) is not valid!
+INFO - underlying: Shorting 1432 shares at 350.6 | Going long 0 shares at 948.0
+INFO - Transaction Net Value: 502059.2
+INFO - #####
+INFO - Liquid Cash: 245485117.3300001
+INFO - Current Value: -432309851.8499999
+INFO - #####
+INFO - ####2020-11-06 12:03:00####
+INFO - C_346.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.73
+INFO - Transaction Net Value: -8768.25
+INFO - underlying: Shorting 25 shares at 350.74 | Going long 0 shares at 20.0
+INFO - Transaction Net Value: 8768.5
+INFO - #####
+INFO - Liquid Cash: 245485117.5800001
+INFO - Current Value: 232209782.1200001
+INFO - #####
+INFO - ####2020-11-06 12:04:00####
+INFO - C_330.0: Shorting 0 shares at 9.0 | Going long 9 shares at 350.54
+INFO - Transaction Net Value: -3154.86
+INFO - underlying: Shorting 9 shares at 350.55 | Going long 0 shares at 11.0
+INFO - Transaction Net Value: 3154.9500000000003
+INFO - #####
+INFO - Liquid Cash: 245485117.67000008
+INFO - Current Value: 238289360.5900001
+INFO - #####
+INFO - ####2020-11-06 12:05:00####
+WARNING - The trade order: ('C_381.0', 0, 22124) is not valid!
+INFO - underlying: Shorting 22124 shares at 350.5 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 7754462.0
+INFO - #####
+INFO - Liquid Cash: 253239579.67000008
+INFO - Current Value: 255009432.6900001
+INFO - #####
+INFO - ####2020-11-06 12:06:00####
+INFO - #####
+INFO - Liquid Cash: 253239579.67000008
+INFO - Current Value: 258861448.57000005
+INFO - #####
+INFO - ####2020-11-06 12:07:00####
+INFO - C_302.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.39
+INFO - Transaction Net Value: -8759.75
+INFO - underlying: Shorting 25 shares at 350.4 | Going long 0 shares at 495.0
+INFO - Transaction Net Value: 8760.0
+INFO - #####
+INFO - Liquid Cash: 253239579.92000008
+INFO - Current Value: -111589150.85999992
+INFO - #####
+INFO - ####2020-11-06 12:08:00####
+INFO - C_335.0: Shorting 20 shares at 48.0 | Going long 0 shares at 350.27
+INFO - Transaction Net Value: 960.0
+INFO - underlying: Shorting 0 shares at 350.28 | Going long 20 shares at 2771.0
+INFO - Transaction Net Value: -55420.0
+INFO - #####
+INFO - Liquid Cash: 253185119.92000008
+INFO - Current Value: -1792811924.62
+INFO - #####
+INFO - ####2020-11-06 12:09:00####
+INFO - C_165.0: Shorting 0 shares at 81.0 | Going long 81 shares at 350.33
+INFO - Transaction Net Value: -28376.73
+INFO - underlying: Shorting 81 shares at 350.34 | Going long 0 shares at 633.0
+INFO - Transaction Net Value: 28377.539999999997
+INFO - #####
+INFO - Liquid Cash: 253185120.73000008
+INFO - Current Value: -213214490.92999992
+INFO - #####
+INFO - ####2020-11-06 12:10:00####
+INFO - C_180.0: Shorting 0 shares at 72.0 | Going long 72 shares at 350.35
+INFO - Transaction Net Value: -25225.2
+INFO - underlying: Shorting 72 shares at 350.37 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 25226.64
+INFO - #####
+INFO - Liquid Cash: 253185122.17000008
+INFO - Current Value: 254095691.4700001
+INFO - #####
+INFO - ####2020-11-06 12:11:00####
+WARNING - The trade order: ('C_430.0', 0, 37283) is not valid!
+INFO - underlying: Shorting 37283 shares at 350.48 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 13066945.84
+INFO - #####
+INFO - Liquid Cash: 266252068.01000008
+INFO - Current Value: 267178073.09000006
+INFO - #####
+INFO - ####2020-11-06 12:12:00####
+INFO - C_337.0: Shorting 0 shares at 24.0 | Going long 24 shares at 350.5
+INFO - Transaction Net Value: -8412.0
+INFO - underlying: Shorting 24 shares at 350.51 | Going long 0 shares at 24.0
+INFO - Transaction Net Value: 8412.24
+INFO - #####
+INFO - Liquid Cash: 266252068.2500001
+INFO - Current Value: 249239143.2500001
+INFO - #####
+INFO - ####2020-11-06 12:13:00####
+INFO - C_208.0: Shorting 0 shares at 87.0 | Going long 87 shares at 350.29
+INFO - Transaction Net Value: -30475.230000000003
+INFO - underlying: Shorting 87 shares at 350.3 | Going long 0 shares at 19.0
+INFO - Transaction Net Value: 30476.100000000002
+INFO - #####
+INFO - Liquid Cash: 266252069.1200001
+INFO - Current Value: 257512421.5400001
+INFO - #####
+INFO - ####2020-11-06 12:14:00####
+WARNING - The trade order: ('C_378.0', 0, 32460) is not valid!
+INFO - underlying: Shorting 32460 shares at 350.14 | Going long 0 shares at 613.0
+INFO - Transaction Net Value: 11365544.4
+INFO - #####
+INFO - Liquid Cash: 277617613.5200001
+INFO - Current Value: -207353807.73999992
+INFO - #####
+INFO - ####2020-11-06 12:15:00####
+INFO - C_314.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.15
+INFO - Transaction Net Value: -8753.75
+INFO - underlying: Shorting 25 shares at 350.17 | Going long 0 shares at 2214.0
+INFO - Transaction Net Value: 8754.25
+INFO - #####
+INFO - Liquid Cash: 277617614.0200001
+INFO - Current Value: -1512209971.2800002
+INFO - #####
+INFO - ####2020-11-06 12:16:00####
+WARNING - The trade order: ('C_361.0', 0, 1823) is not valid!
+INFO - underlying: Shorting 1823 shares at 350.08 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 638195.84
+INFO - #####
+INFO - Liquid Cash: 278255809.8600001
+INFO - Current Value: 284992776.7200001
+INFO - #####
+INFO - ####2020-11-06 12:17:00####
+INFO - C_302.0: Shorting 0 shares at 160.0 | Going long 160 shares at 349.97
+INFO - Transaction Net Value: -55995.200000000004
+INFO - underlying: Shorting 160 shares at 349.99 | Going long 0 shares at 383.0
+INFO - Transaction Net Value: 55998.4
+INFO - #####
+INFO - Liquid Cash: 278255813.06000006
+INFO - Current Value: -28592744.87999994
+INFO - #####
+INFO - ####2020-11-06 12:18:00####
+INFO - C_311.0: Shorting 0 shares at 260.0 | Going long 260 shares at 349.97
+INFO - Transaction Net Value: -90992.20000000001
+INFO - underlying: Shorting 260 shares at 349.99 | Going long 0 shares at 3342.0
+INFO - Transaction Net Value: 90997.40000000001
+INFO - #####
+INFO - Liquid Cash: 278255818.26000005
+INFO - Current Value: -2428772668.68
+INFO - #####
+INFO - ####2020-11-06 12:19:00####
+WARNING - The trade order: ('C_349.0', 174, 0) is not valid!
+INFO - underlying: Shorting 0 shares at 349.93 | Going long 174 shares at 10501.0
+INFO - Transaction Net Value: -1827174.0
+INFO - #####
+INFO - Liquid Cash: 276428644.26000005
+INFO - Current Value: -8237571522.58
+INFO - #####
+INFO - ####2020-11-06 12:20:00####
+INFO - C_306.0: Shorting 0 shares at 210.0 | Going long 210 shares at 349.94
+INFO - Transaction Net Value: -73487.4
+INFO - underlying: Shorting 210 shares at 349.95 | Going long 0 shares at 1225.0
+INFO - Transaction Net Value: 73489.5
+INFO - #####
+INFO - Liquid Cash: 276428646.3600001
+INFO - Current Value: -714254055.5199999
+INFO - #####
+INFO - ####2020-11-06 12:21:00####
+INFO - #####
+INFO - Liquid Cash: 276428646.3600001
+INFO - Current Value: 273018079.18000007
+INFO - #####
+INFO - ####2020-11-06 12:22:00####
+WARNING - The trade order: ('C_368.0', 0, 6829) is not valid!
+INFO - underlying: Shorting 6829 shares at 350.11 | Going long 0 shares at 458.0
+INFO - Transaction Net Value: 2390901.19
+INFO - #####
+INFO - Liquid Cash: 278819547.5500001
+INFO - Current Value: -94977860.64999992
+INFO - #####
+INFO - ####2020-11-06 12:23:00####
+INFO - C_307.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.01
+INFO - Transaction Net Value: -8750.25
+INFO - underlying: Shorting 25 shares at 350.02 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8750.5
+INFO - #####
+INFO - Liquid Cash: 278819547.8000001
+INFO - Current Value: 287998667.78000003
+INFO - #####
+INFO - ####2020-11-06 12:24:00####
+INFO - C_325.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.89
+INFO - Transaction Net Value: -8747.25
+INFO - underlying: Shorting 25 shares at 349.91 | Going long 0 shares at 57.0
+INFO - Transaction Net Value: 8747.75
+INFO - #####
+INFO - Liquid Cash: 278819548.3000001
+INFO - Current Value: 243670549.52000007
+INFO - #####
+INFO - ####2020-11-06 12:25:00####
+WARNING - The trade order: ('C_373.0', 0, 36695) is not valid!
+INFO - underlying: Shorting 36695 shares at 349.9 | Going long 0 shares at 1062.0
+INFO - Transaction Net Value: 12839580.5
+INFO - #####
+INFO - Liquid Cash: 291659128.8000001
+INFO - Current Value: -614801282.9799999
+INFO - #####
+INFO - ####2020-11-06 12:26:00####
+INFO - #####
+INFO - Liquid Cash: 291659128.8000001
+INFO - Current Value: 222669392.18000007
+INFO - #####
+INFO - ####2020-11-06 12:27:00####
+INFO - C_323.0: Shorting 0 shares at 174.0 | Going long 174 shares at 349.76
+INFO - Transaction Net Value: -60858.24
+INFO - underlying: Shorting 174 shares at 349.77 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 60859.979999999996
+INFO - #####
+INFO - Liquid Cash: 291659130.5400001
+INFO - Current Value: 292275680.02000004
+INFO - #####
+INFO - ####2020-11-06 12:28:00####
+INFO - C_290.0: Shorting 0 shares at 43.0 | Going long 43 shares at 349.77
+INFO - Transaction Net Value: -15040.109999999999
+INFO - underlying: Shorting 43 shares at 349.78 | Going long 0 shares at 6144.0
+INFO - Transaction Net Value: 15040.539999999999
+INFO - #####
+INFO - Liquid Cash: 291659130.9700001
+INFO - Current Value: -4959346764.57
+INFO - #####
+INFO - ####2020-11-06 12:29:00####
+INFO - C_255.0: Shorting 0 shares at 10.0 | Going long 10 shares at 349.65
+INFO - Transaction Net Value: -3496.5
+INFO - underlying: Shorting 10 shares at 349.66 | Going long 0 shares at 5.0
+INFO - Transaction Net Value: 3496.6000000000004
+INFO - #####
+INFO - Liquid Cash: 291659131.0700001
+INFO - Current Value: 287955105.77000016
+INFO - #####
+INFO - ####2020-11-06 12:30:00####
+WARNING - The trade order: ('C_366.0', 0, 13117) is not valid!
+INFO - underlying: Shorting 13117 shares at 349.85 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 4588982.45
+INFO - #####
+INFO - Liquid Cash: 296248113.5200001
+INFO - Current Value: 296744875.8400001
+INFO - #####
+INFO - ####2020-11-06 12:31:00####
+WARNING - The trade order: ('C_374.0', 0, 2086) is not valid!
+INFO - underlying: Shorting 2086 shares at 349.88 | Going long 0 shares at 1091.0
+INFO - Transaction Net Value: 729849.6799999999
+INFO - #####
+INFO - Liquid Cash: 296977963.2000001
+INFO - Current Value: -650794907.54
+INFO - #####
+INFO - ####2020-11-06 12:32:00####
+WARNING - The trade order: ('C_380.0', 0, 24513) is not valid!
+INFO - underlying: Shorting 24513 shares at 349.99 | Going long 0 shares at 10666.0
+INFO - Transaction Net Value: 8579304.870000001
+INFO - #####
+INFO - Liquid Cash: 305557268.0700001
+INFO - Current Value: -9234216954.890001
+INFO - #####
+INFO - ####2020-11-06 12:33:00####
+WARNING - The trade order: ('C_385.0', 0, 2885) is not valid!
+INFO - underlying: Shorting 2885 shares at 350.11 | Going long 0 shares at 354.0
+INFO - Transaction Net Value: 1010067.3500000001
+INFO - #####
+INFO - Liquid Cash: 306567335.42000014
+INFO - Current Value: -10027451.779999863
+INFO - #####
+INFO - ####2020-11-06 12:34:00####
+INFO - C_315.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.02
+INFO - Transaction Net Value: -12250.699999999999
+INFO - underlying: Shorting 35 shares at 350.04 | Going long 0 shares at 1352.0
+INFO - Transaction Net Value: 12251.400000000001
+INFO - #####
+INFO - Liquid Cash: 306567336.1200001
+INFO - Current Value: -902091627.92
+INFO - #####
+INFO - ####2020-11-06 12:35:00####
+WARNING - The trade order: ('C_370.0', 0, 53497) is not valid!
+INFO - underlying: Shorting 53497 shares at 349.93 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 18720205.21
+INFO - #####
+INFO - Liquid Cash: 325287541.3300001
+INFO - Current Value: 326676817.49000007
+INFO - #####
+INFO - ####2020-11-06 12:36:00####
+INFO - C_329.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.8
+INFO - Transaction Net Value: -8745.0
+INFO - underlying: Shorting 25 shares at 349.81 | Going long 0 shares at 16.0
+INFO - Transaction Net Value: 8745.25
+INFO - #####
+INFO - Liquid Cash: 325287541.5800001
+INFO - Current Value: 320744367.9800001
+INFO - #####
+INFO - ####2020-11-06 12:37:00####
+WARNING - The trade order: ('C_378.0', 0, 30586) is not valid!
+INFO - underlying: Shorting 30586 shares at 349.62 | Going long 0 shares at 17.0
+INFO - Transaction Net Value: 10693477.32
+INFO - #####
+INFO - Liquid Cash: 335981018.9000001
+INFO - Current Value: 320737655.6800001
+INFO - #####
+INFO - ####2020-11-06 12:38:00####
+WARNING - The trade order: ('C_360.0', 0, 525) is not valid!
+INFO - underlying: Shorting 525 shares at 349.7 | Going long 0 shares at 445.0
+INFO - Transaction Net Value: 183592.5
+INFO - #####
+INFO - Liquid Cash: 336164611.4000001
+INFO - Current Value: -99995842.97999991
+INFO - #####
+INFO - ####2020-11-06 12:39:00####
+WARNING - The trade order: ('C_375.0', 0, 23099) is not valid!
+INFO - underlying: Shorting 23099 shares at 349.65 | Going long 0 shares at 209.0
+INFO - Transaction Net Value: 8076565.35
+INFO - #####
+INFO - Liquid Cash: 344241176.7500001
+INFO - Current Value: 137398424.47000012
+INFO - #####
+INFO - ####2020-11-06 12:40:00####
+WARNING - The trade order: ('C_395.0', 0, 19200) is not valid!
+INFO - underlying: Shorting 19200 shares at 349.74 | Going long 0 shares at 95.0
+INFO - Transaction Net Value: 6715008.0
+INFO - #####
+INFO - Liquid Cash: 350956184.7500001
+INFO - Current Value: 254493969.2900001
+INFO - #####
+INFO - ####2020-11-06 12:41:00####
+INFO - C_324.0: Shorting 0 shares at 2.0 | Going long 2 shares at 349.77
+INFO - Transaction Net Value: -699.54
+INFO - underlying: Shorting 2 shares at 349.78 | Going long 0 shares at 4391.0
+INFO - Transaction Net Value: 699.56
+INFO - #####
+INFO - Liquid Cash: 350956184.7700001
+INFO - Current Value: -4146344928.77
+INFO - #####
+INFO - ####2020-11-06 12:42:00####
+INFO - C_260.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.84
+INFO - Transaction Net Value: -8746.0
+INFO - underlying: Shorting 25 shares at 349.86 | Going long 0 shares at 1048.0
+INFO - Transaction Net Value: 8746.5
+INFO - #####
+INFO - Liquid Cash: 350956185.2700001
+INFO - Current Value: -713337463.41
+INFO - #####
+INFO - ####2020-11-06 12:43:00####
+INFO - C_316.0: Shorting 0 shares at 29.0 | Going long 29 shares at 349.94
+INFO - Transaction Net Value: -10148.26
+INFO - underlying: Shorting 29 shares at 349.95 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 10148.55
+INFO - #####
+INFO - Liquid Cash: 350956185.5600001
+INFO - Current Value: 362790395.6800001
+INFO - #####
+INFO - ####2020-11-06 12:44:00####
+INFO - C_317.0: Shorting 0 shares at 29.0 | Going long 29 shares at 349.93
+INFO - Transaction Net Value: -10147.97
+INFO - underlying: Shorting 29 shares at 349.94 | Going long 0 shares at 4.0
+INFO - Transaction Net Value: 10148.26
+INFO - #####
+INFO - Liquid Cash: 350956185.8500001
+INFO - Current Value: 347806104.99000007
+INFO - #####
+INFO - ####2020-11-06 12:45:00####
+INFO - C_175.0: Shorting 0 shares at 57.0 | Going long 57 shares at 350.06
+INFO - Transaction Net Value: -19953.420000000002
+INFO - underlying: Shorting 57 shares at 350.07 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 19953.989999999998
+INFO - #####
+INFO - Liquid Cash: 350956186.4200001
+INFO - Current Value: 352031079.3000001
+INFO - #####
+INFO - ####2020-11-06 12:46:00####
+INFO - C_272.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.01
+INFO - Transaction Net Value: -12250.35
+INFO - underlying: Shorting 35 shares at 350.02 | Going long 0 shares at 3.0
+INFO - Transaction Net Value: 12250.699999999999
+INFO - #####
+INFO - Liquid Cash: 350956186.77000004
+INFO - Current Value: 348811727.75
+INFO - #####
+INFO - ####2020-11-06 12:47:00####
+WARNING - The trade order: ('C_359.0', 0, 1583) is not valid!
+INFO - underlying: Shorting 1583 shares at 349.98 | Going long 0 shares at 24.0
+INFO - Transaction Net Value: 554018.3400000001
+INFO - #####
+INFO - Liquid Cash: 351510205.11
+INFO - Current Value: 335343451.17
+INFO - #####
+INFO - ####2020-11-06 12:48:00####
+INFO - C_307.0: Shorting 0 shares at 29.0 | Going long 29 shares at 349.94
+INFO - Transaction Net Value: -10148.26
+INFO - underlying: Shorting 29 shares at 349.96 | Going long 0 shares at 887.0
+INFO - Transaction Net Value: 10148.84
+INFO - #####
+INFO - Liquid Cash: 351510205.69
+INFO - Current Value: -557508357.1899999
+INFO - #####
+INFO - ####2020-11-06 12:49:00####
+WARNING - The trade order: ('C_382.0', 0, 5270) is not valid!
+INFO - underlying: Shorting 5270 shares at 349.97 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 1844341.9000000001
+INFO - #####
+INFO - Liquid Cash: 353354547.59
+INFO - Current Value: 355183643.66999996
+INFO - #####
+INFO - ####2020-11-06 12:50:00####
+INFO - C_317.0: Shorting 0 shares at 160.0 | Going long 160 shares at 350.12
+INFO - Transaction Net Value: -56019.2
+INFO - underlying: Shorting 160 shares at 350.13 | Going long 0 shares at 73.0
+INFO - Transaction Net Value: 56020.8
+INFO - #####
+INFO - Liquid Cash: 353354549.19
+INFO - Current Value: 278853258.95
+INFO - #####
+INFO - ####2020-11-06 12:51:00####
+WARNING - The trade order: ('C_386.0', 0, 8138) is not valid!
+INFO - underlying: Shorting 8138 shares at 350.25 | Going long 0 shares at 3703.0
+INFO - Transaction Net Value: 2850334.5
+INFO - #####
+INFO - Liquid Cash: 356204883.69
+INFO - Current Value: -3493282523.79
+INFO - #####
+INFO - ####2020-11-06 12:52:00####
+INFO - C_190.0: Shorting 0 shares at 39.0 | Going long 39 shares at 350.17
+INFO - Transaction Net Value: -13656.630000000001
+INFO - underlying: Shorting 39 shares at 350.18 | Going long 0 shares at 6413.0
+INFO - Transaction Net Value: 13657.02
+INFO - #####
+INFO - Liquid Cash: 356204884.08
+INFO - Current Value: -6311501611.26
+INFO - #####
+INFO - ####2020-11-06 12:53:00####
+INFO - C_339.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.13
+INFO - Transaction Net Value: -8753.25
+INFO - underlying: Shorting 25 shares at 350.14 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8753.5
+INFO - #####
+INFO - Liquid Cash: 356204884.33
+INFO - Current Value: 363850186.32
+INFO - #####
+INFO - ####2020-11-06 12:54:00####
+WARNING - The trade order: ('C_430.0', 0, 10132) is not valid!
+INFO - underlying: Shorting 10132 shares at 350.18 | Going long 0 shares at 24541.0
+INFO - Transaction Net Value: 3548023.7600000002
+INFO - #####
+INFO - Liquid Cash: 359752908.09
+INFO - Current Value: -25406224474.0
+INFO - #####
+INFO - ####2020-11-06 12:55:00####
+WARNING - The trade order: ('C_370.0', 0, 59442) is not valid!
+INFO - underlying: Shorting 59442 shares at 350.23 | Going long 0 shares at 385.0
+INFO - Transaction Net Value: 20818371.66
+INFO - #####
+INFO - Liquid Cash: 380571279.75
+INFO - Current Value: -37730553.190000005
+INFO - #####
+INFO - ####2020-11-06 12:56:00####
+INFO - C_205.0: Shorting 0 shares at 93.0 | Going long 93 shares at 350.22
+INFO - Transaction Net Value: -32570.460000000003
+INFO - underlying: Shorting 93 shares at 350.23 | Going long 0 shares at 152.0
+INFO - Transaction Net Value: 32571.390000000003
+INFO - #####
+INFO - Liquid Cash: 380571280.68
+INFO - Current Value: 213447688.74
+INFO - #####
+INFO - ####2020-11-06 12:57:00####
+WARNING - The trade order: ('C_385.0', 0, 18681) is not valid!
+INFO - underlying: Shorting 18681 shares at 350.14 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 6540965.34
+INFO - #####
+INFO - Liquid Cash: 387112246.02
+INFO - Current Value: 399571860.01
+INFO - #####
+INFO - ####2020-11-06 12:58:00####
+INFO - #####
+INFO - Liquid Cash: 387112246.02
+INFO - Current Value: 149611339.16999996
+INFO - #####
+INFO - ####2020-11-06 12:59:00####
+INFO - C_304.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.01
+INFO - Transaction Net Value: -10150.289999999999
+INFO - underlying: Shorting 29 shares at 350.02 | Going long 0 shares at 1452.0
+INFO - Transaction Net Value: 10150.58
+INFO - #####
+INFO - Liquid Cash: 387112246.30999994
+INFO - Current Value: -1248753244.46
+INFO - #####
+INFO - ####2020-11-06 13:00:00####
+INFO - C_300.0: Shorting 0 shares at 150.0 | Going long 150 shares at 350.1
+INFO - Transaction Net Value: -52515.0
+INFO - underlying: Shorting 150 shares at 350.11 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 52516.5
+INFO - #####
+INFO - Liquid Cash: 387112247.80999994
+INFO - Current Value: 387736975.1099999
+INFO - #####
+INFO - ####2020-11-06 13:01:00####
+INFO - C_318.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.26
+INFO - Transaction Net Value: -10157.539999999999
+INFO - underlying: Shorting 29 shares at 350.27 | Going long 0 shares at 202.0
+INFO - Transaction Net Value: 10157.83
+INFO - #####
+INFO - Liquid Cash: 387112248.0999999
+INFO - Current Value: 160610023.0799999
+INFO - #####
+INFO - ####2020-11-06 13:02:00####
+INFO - C_334.0: Shorting 0 shares at 153.0 | Going long 153 shares at 350.19
+INFO - Transaction Net Value: -53579.07
+INFO - underlying: Shorting 153 shares at 350.2 | Going long 0 shares at 1663.0
+INFO - Transaction Net Value: 53580.6
+INFO - #####
+INFO - Liquid Cash: 387112249.62999994
+INFO - Current Value: -1487219722.0
+INFO - #####
+INFO - ####2020-11-06 13:03:00####
+INFO - C_345.0: Shorting 0 shares at 178.0 | Going long 178 shares at 350.12
+INFO - Transaction Net Value: -62321.36
+INFO - underlying: Shorting 178 shares at 350.13 | Going long 0 shares at 177.0
+INFO - Transaction Net Value: 62323.14
+INFO - #####
+INFO - Liquid Cash: 387112251.4099999
+INFO - Current Value: 189052530.16999993
+INFO - #####
+INFO - ####2020-11-06 13:04:00####
+INFO - #####
+INFO - Liquid Cash: 387112251.4099999
+INFO - Current Value: 305591413.6199999
+INFO - #####
+INFO - ####2020-11-06 13:05:00####
+INFO - C_234.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.37
+INFO - Transaction Net Value: -8759.25
+INFO - underlying: Shorting 25 shares at 350.38 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8759.5
+INFO - #####
+INFO - Liquid Cash: 387112251.6599999
+INFO - Current Value: 387897709.1699999
+INFO - #####
+INFO - ####2020-11-06 13:06:00####
+INFO - C_327.0: Shorting 0 shares at 68.0 | Going long 68 shares at 350.29
+INFO - Transaction Net Value: -23819.72
+INFO - underlying: Shorting 68 shares at 350.3 | Going long 0 shares at 49.0
+INFO - Transaction Net Value: 23820.4
+INFO - #####
+INFO - Liquid Cash: 387112252.33999985
+INFO - Current Value: 334736880.0099999
+INFO - #####
+INFO - ####2020-11-06 13:07:00####
+INFO - C_310.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.26
+INFO - Transaction Net Value: -10157.539999999999
+INFO - underlying: Shorting 29 shares at 350.28 | Going long 0 shares at 6541.0
+INFO - Transaction Net Value: 10158.119999999999
+INFO - #####
+INFO - Liquid Cash: 387112252.91999984
+INFO - Current Value: -6995641041.099999
+INFO - #####
+INFO - ####2020-11-06 13:08:00####
+WARNING - The trade order: ('C_376.0', 0, 5380) is not valid!
+INFO - underlying: Shorting 5380 shares at 350.32 | Going long 0 shares at 371.0
+INFO - Transaction Net Value: 1884721.5999999999
+INFO - #####
+INFO - Liquid Cash: 388996974.51999986
+INFO - Current Value: -28434031.35000014
+INFO - #####
+INFO - ####2020-11-06 13:09:00####
+WARNING - The trade order: ('C_380.0', 0, 21590) is not valid!
+INFO - underlying: Shorting 21590 shares at 350.33 | Going long 0 shares at 297.0
+INFO - Transaction Net Value: 7563624.699999999
+INFO - #####
+INFO - Liquid Cash: 396560599.21999985
+INFO - Current Value: 53997430.34999985
+INFO - #####
+INFO - ####2020-11-06 13:10:00####
+INFO - C_297.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.36
+INFO - Transaction Net Value: -3503.6000000000004
+INFO - underlying: Shorting 10 shares at 350.37 | Going long 0 shares at 86.0
+INFO - Transaction Net Value: 3503.7
+INFO - #####
+INFO - Liquid Cash: 396560599.3199998
+INFO - Current Value: 300113911.59999985
+INFO - #####
+INFO - ####2020-11-06 13:11:00####
+INFO - C_285.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.45
+INFO - Transaction Net Value: -8761.25
+INFO - underlying: Shorting 25 shares at 350.46 | Going long 0 shares at 4130.0
+INFO - Transaction Net Value: 8761.5
+INFO - #####
+INFO - Liquid Cash: 396560599.5699998
+INFO - Current Value: -4376425427.08
+INFO - #####
+INFO - ####2020-11-06 13:12:00####
+WARNING - The trade order: ('C_367.0', 0, 139) is not valid!
+INFO - underlying: Shorting 139 shares at 350.65 | Going long 0 shares at 128.0
+INFO - Transaction Net Value: 48740.35
+INFO - #####
+INFO - Liquid Cash: 396609339.91999984
+INFO - Current Value: 249851881.63999984
+INFO - #####
+INFO - ####2020-11-06 13:13:00####
+INFO - C_296.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.54
+INFO - Transaction Net Value: -3505.4
+INFO - underlying: Shorting 10 shares at 350.56 | Going long 0 shares at 1916.0
+INFO - Transaction Net Value: 3505.6
+INFO - #####
+INFO - Liquid Cash: 396609340.1199999
+INFO - Current Value: -1814628318.4600003
+INFO - #####
+INFO - ####2020-11-06 13:14:00####
+INFO - C_340.0: Shorting 0 shares at 154.0 | Going long 154 shares at 350.55
+INFO - Transaction Net Value: -53984.700000000004
+INFO - underlying: Shorting 154 shares at 350.56 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 53986.24
+INFO - #####
+INFO - Liquid Cash: 396609341.6599999
+INFO - Current Value: 400053273.3099999
+INFO - #####
+INFO - ####2020-11-06 13:15:00####
+INFO - C_322.0: Shorting 0 shares at 160.0 | Going long 160 shares at 350.59
+INFO - Transaction Net Value: -56094.399999999994
+INFO - underlying: Shorting 160 shares at 350.6 | Going long 0 shares at 453.0
+INFO - Transaction Net Value: 56096.0
+INFO - #####
+INFO - Liquid Cash: 396609343.25999993
+INFO - Current Value: -123607393.17000006
+INFO - #####
+INFO - ####2020-11-06 13:16:00####
+INFO - C_339.0: Shorting 0 shares at 202.0 | Going long 202 shares at 350.54
+INFO - Transaction Net Value: -70809.08
+INFO - underlying: Shorting 202 shares at 350.55 | Going long 0 shares at 633.0
+INFO - Transaction Net Value: 70811.1
+INFO - #####
+INFO - Liquid Cash: 396609345.28
+INFO - Current Value: -331835409.16
+INFO - #####
+INFO - ####2020-11-06 13:17:00####
+WARNING - The trade order: ('C_380.0', 0, 34676) is not valid!
+INFO - underlying: Shorting 34676 shares at 350.6 | Going long 0 shares at 3177.0
+INFO - Transaction Net Value: 12157405.600000001
+INFO - #####
+INFO - Liquid Cash: 408766750.88
+INFO - Current Value: -3374302290.8599997
+INFO - #####
+INFO - ####2020-11-06 13:18:00####
+WARNING - The trade order: ('C_366.0', 0, 3458) is not valid!
+INFO - underlying: Shorting 3458 shares at 350.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 1212305.64
+INFO - #####
+INFO - Liquid Cash: 409979056.52
+INFO - Current Value: 411770763.5
+INFO - #####
+INFO - ####2020-11-06 13:19:00####
+INFO - C_339.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.56
+INFO - Transaction Net Value: -12269.6
+INFO - underlying: Shorting 35 shares at 350.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12270.3
+INFO - #####
+INFO - Liquid Cash: 409979057.21999997
+INFO - Current Value: 422390766.05999994
+INFO - #####
+INFO - ####2020-11-06 13:20:00####
+INFO - C_330.0: Shorting 0 shares at 193.0 | Going long 193 shares at 350.58
+INFO - Transaction Net Value: -67661.94
+INFO - underlying: Shorting 193 shares at 350.6 | Going long 0 shares at 146.0
+INFO - Transaction Net Value: 67665.8
+INFO - #####
+INFO - Liquid Cash: 409979061.08
+INFO - Current Value: 237465031.2
+INFO - #####
+INFO - ####2020-11-06 13:21:00####
+WARNING - The trade order: ('C_361.0', 0, 55433) is not valid!
+INFO - underlying: Shorting 55433 shares at 350.57 | Going long 0 shares at 159.0
+INFO - Transaction Net Value: 19433146.81
+INFO - #####
+INFO - Liquid Cash: 429412207.89
+INFO - Current Value: 231777447.73
+INFO - #####
+INFO - ####2020-11-06 13:22:00####
+INFO - C_195.0: Shorting 0 shares at 108.0 | Going long 108 shares at 350.4
+INFO - Transaction Net Value: -37843.2
+INFO - underlying: Shorting 108 shares at 350.42 | Going long 0 shares at 6594.0
+INFO - Transaction Net Value: 37845.36
+INFO - #####
+INFO - Liquid Cash: 429412210.05
+INFO - Current Value: -7813770364.349999
+INFO - #####
+INFO - ####2020-11-06 13:23:00####
+INFO - C_347.0: Shorting 0 shares at 40.0 | Going long 40 shares at 350.44
+INFO - Transaction Net Value: -14017.6
+INFO - underlying: Shorting 40 shares at 350.45 | Going long 0 shares at 11118.0
+INFO - Transaction Net Value: 14018.0
+INFO - #####
+INFO - Liquid Cash: 429412210.45
+INFO - Current Value: -13472634790.789999
+INFO - #####
+INFO - ####2020-11-06 13:24:00####
+INFO - C_351.0: Shorting 0 shares at 187.0 | Going long 187 shares at 350.59
+INFO - Transaction Net Value: -65560.33
+INFO - underlying: Shorting 187 shares at 350.6 | Going long 0 shares at 97.0
+INFO - Transaction Net Value: 65562.2
+INFO - #####
+INFO - Liquid Cash: 429412212.32
+INFO - Current Value: 308930648.18
+INFO - #####
+INFO - ####2020-11-06 13:25:00####
+WARNING - The trade order: ('C_395.0', 0, 5698) is not valid!
+INFO - underlying: Shorting 5698 shares at 350.49 | Going long 0 shares at 309.0
+INFO - Transaction Net Value: 1997092.02
+INFO - #####
+INFO - Liquid Cash: 431409304.34
+INFO - Current Value: 46000841.71999998
+INFO - #####
+INFO - ####2020-11-06 13:26:00####
+INFO - C_316.0: Shorting 0 shares at 155.0 | Going long 155 shares at 350.66
+INFO - Transaction Net Value: -54352.3
+INFO - underlying: Shorting 155 shares at 350.68 | Going long 0 shares at 1916.0
+INFO - Transaction Net Value: 54355.4
+INFO - #####
+INFO - Liquid Cash: 431409307.43999994
+INFO - Current Value: -1972608939.9199998
+INFO - #####
+INFO - ####2020-11-06 13:27:00####
+INFO - C_180.0: Shorting 0 shares at 111.0 | Going long 111 shares at 350.74
+INFO - Transaction Net Value: -38932.14
+INFO - underlying: Shorting 111 shares at 350.75 | Going long 0 shares at 1916.0
+INFO - Transaction Net Value: 38933.25
+INFO - #####
+INFO - Liquid Cash: 431409308.54999995
+INFO - Current Value: -1975242612.49
+INFO - #####
+INFO - ####2020-11-06 13:28:00####
+INFO - C_200.0: Shorting 0 shares at 67.0 | Going long 67 shares at 350.77
+INFO - Transaction Net Value: -23501.59
+INFO - underlying: Shorting 67 shares at 350.78 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 23502.26
+INFO - #####
+INFO - Liquid Cash: 431409309.21999997
+INFO - Current Value: 432640553.79999995
+INFO - #####
+INFO - ####2020-11-06 13:29:00####
+INFO - C_308.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.75
+INFO - Transaction Net Value: -10171.75
+INFO - underlying: Shorting 29 shares at 350.76 | Going long 0 shares at 1547.0
+INFO - Transaction Net Value: 10172.039999999999
+INFO - #####
+INFO - Liquid Cash: 431409309.51
+INFO - Current Value: -1511389256.99
+INFO - #####
+INFO - ####2020-11-06 13:30:00####
+INFO - C_195.0: Shorting 0 shares at 24.0 | Going long 24 shares at 350.68
+INFO - Transaction Net Value: -8416.32
+INFO - underlying: Shorting 24 shares at 350.69 | Going long 0 shares at 7560.0
+INFO - Transaction Net Value: 8416.56
+INFO - #####
+INFO - Liquid Cash: 431409309.75
+INFO - Current Value: -9068236542.53
+INFO - #####
+INFO - ####2020-11-06 13:31:00####
+WARNING - The trade order: ('C_381.0', 0, 56652) is not valid!
+INFO - underlying: Shorting 56652 shares at 350.66 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 19865590.32
+INFO - #####
+INFO - Liquid Cash: 451274900.07
+INFO - Current Value: 453405883.17
+INFO - #####
+INFO - ####2020-11-06 13:32:00####
+INFO - C_312.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.64
+INFO - Transaction Net Value: -3506.3999999999996
+INFO - underlying: Shorting 10 shares at 350.65 | Going long 0 shares at 202.0
+INFO - Transaction Net Value: 3506.5
+INFO - #####
+INFO - Liquid Cash: 451274900.17
+INFO - Current Value: 190193605.73000002
+INFO - #####
+INFO - ####2020-11-06 13:33:00####
+WARNING - The trade order: ('C_366.0', 0, 2120) is not valid!
+INFO - underlying: Shorting 2120 shares at 350.64 | Going long 0 shares at 582.0
+INFO - Transaction Net Value: 743356.7999999999
+INFO - #####
+INFO - Liquid Cash: 452018256.97
+INFO - Current Value: -310619772.01
+INFO - #####
+INFO - ####2020-11-06 13:34:00####
+INFO - C_336.0: Shorting 0 shares at 90.0 | Going long 90 shares at 350.6
+INFO - Transaction Net Value: -31554.000000000004
+INFO - underlying: Shorting 90 shares at 350.61 | Going long 0 shares at 157.0
+INFO - Transaction Net Value: 31554.9
+INFO - #####
+INFO - Liquid Cash: 452018257.87
+INFO - Current Value: 247493541.27
+INFO - #####
+INFO - ####2020-11-06 13:35:00####
+INFO - C_208.0: Shorting 0 shares at 65.0 | Going long 65 shares at 350.55
+INFO - Transaction Net Value: -22785.75
+INFO - underlying: Shorting 65 shares at 350.56 | Going long 0 shares at 1640.0
+INFO - Transaction Net Value: 22786.4
+INFO - #####
+INFO - Liquid Cash: 452018258.52
+INFO - Current Value: -1703851534.78
+INFO - #####
+INFO - ####2020-11-06 13:36:00####
+WARNING - The trade order: ('C_355.0', 0, 587) is not valid!
+INFO - underlying: Shorting 587 shares at 350.59 | Going long 0 shares at 20.0
+INFO - Transaction Net Value: 205796.33
+INFO - #####
+INFO - Liquid Cash: 452224054.84999996
+INFO - Current Value: 428598971.16999996
+INFO - #####
+INFO - ####2020-11-06 13:37:00####
+INFO - C_318.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.69
+INFO - Transaction Net Value: -8767.25
+INFO - underlying: Shorting 25 shares at 350.7 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 8767.5
+INFO - #####
+INFO - Liquid Cash: 452224055.09999996
+INFO - Current Value: 450604948.35999995
+INFO - #####
+INFO - ####2020-11-06 13:38:00####
+INFO - C_307.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.75
+INFO - Transaction Net Value: -3507.5
+INFO - underlying: Shorting 10 shares at 350.76 | Going long 0 shares at 430.0
+INFO - Transaction Net Value: 3507.6
+INFO - #####
+INFO - Liquid Cash: 452224055.2
+INFO - Current Value: -112834166.30000001
+INFO - #####
+INFO - ####2020-11-06 13:39:00####
+INFO - C_165.0: Shorting 0 shares at 58.0 | Going long 58 shares at 350.65
+INFO - Transaction Net Value: -20337.699999999997
+INFO - underlying: Shorting 58 shares at 350.66 | Going long 0 shares at 71009.0
+INFO - Transaction Net Value: 20338.280000000002
+INFO - #####
+INFO - Liquid Cash: 452224055.78
+INFO - Current Value: -93019154384.12
+INFO - #####
+INFO - ####2020-11-06 13:40:00####
+WARNING - The trade order: ('C_386.0', 0, 23303) is not valid!
+INFO - underlying: Shorting 23303 shares at 350.63 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8170730.89
+INFO - #####
+INFO - Liquid Cash: 460394786.66999996
+INFO - Current Value: 463033498.15
+INFO - #####
+INFO - ####2020-11-06 13:41:00####
+INFO - C_245.0: Shorting 0 shares at 109.0 | Going long 109 shares at 350.59
+INFO - Transaction Net Value: -38214.31
+INFO - underlying: Shorting 109 shares at 350.61 | Going long 0 shares at 4469.0
+INFO - Transaction Net Value: 38216.49
+INFO - #####
+INFO - Liquid Cash: 460394788.84999996
+INFO - Current Value: -5524028766.29
+INFO - #####
+INFO - ####2020-11-06 13:42:00####
+INFO - C_327.0: Shorting 0 shares at 5.0 | Going long 5 shares at 350.59
+INFO - Transaction Net Value: -1752.9499999999998
+INFO - underlying: Shorting 5 shares at 350.6 | Going long 0 shares at 1290.0
+INFO - Transaction Net Value: 1753.0
+INFO - #####
+INFO - Liquid Cash: 460394788.9
+INFO - Current Value: -1266091417.24
+INFO - #####
+INFO - ####2020-11-06 13:43:00####
+INFO - C_312.0: Shorting 0 shares at 171.0 | Going long 171 shares at 350.55
+INFO - Transaction Net Value: -59944.05
+INFO - underlying: Shorting 171 shares at 350.56 | Going long 0 shares at 1892.0
+INFO - Transaction Net Value: 59945.76
+INFO - #####
+INFO - Liquid Cash: 460394790.60999995
+INFO - Current Value: -2073368353.69
+INFO - #####
+INFO - ####2020-11-06 13:44:00####
+WARNING - The trade order: ('C_363.0', 0, 5654) is not valid!
+INFO - underlying: Shorting 5654 shares at 350.44 | Going long 0 shares at 182.0
+INFO - Transaction Net Value: 1981387.76
+INFO - #####
+INFO - Liquid Cash: 462376178.36999995
+INFO - Current Value: 220378029.58999994
+INFO - #####
+INFO - ####2020-11-06 13:45:00####
+WARNING - The trade order: ('C_385.0', 0, 15259) is not valid!
+INFO - underlying: Shorting 15259 shares at 350.43 | Going long 0 shares at 45.0
+INFO - Transaction Net Value: 5347211.37
+INFO - #####
+INFO - Liquid Cash: 467723389.73999995
+INFO - Current Value: 418750714.41999996
+INFO - #####
+INFO - ####2020-11-06 13:46:00####
+INFO - C_215.0: Shorting 0 shares at 39.0 | Going long 39 shares at 350.55
+INFO - Transaction Net Value: -13671.45
+INFO - underlying: Shorting 39 shares at 350.57 | Going long 0 shares at 26.0
+INFO - Transaction Net Value: 13672.23
+INFO - #####
+INFO - Liquid Cash: 467723390.52
+INFO - Current Value: 434941443.21999997
+INFO - #####
+INFO - ####2020-11-06 13:47:00####
+INFO - C_265.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.58
+INFO - Transaction Net Value: -8764.5
+INFO - underlying: Shorting 25 shares at 350.59 | Going long 0 shares at 1386.0
+INFO - Transaction Net Value: 8764.75
+INFO - #####
+INFO - Liquid Cash: 467723390.77
+INFO - Current Value: -1406067752.91
+INFO - #####
+INFO - ####2020-11-06 13:48:00####
+INFO - C_250.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.58
+INFO - Transaction Net Value: -8764.5
+INFO - underlying: Shorting 25 shares at 350.6 | Going long 0 shares at 801.0
+INFO - Transaction Net Value: 8765.0
+INFO - #####
+INFO - Liquid Cash: 467723391.27
+INFO - Current Value: -620846310.41
+INFO - #####
+INFO - ####2020-11-06 13:49:00####
+INFO - C_294.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.37
+INFO - Transaction Net Value: -3503.7
+INFO - underlying: Shorting 10 shares at 350.38 | Going long 0 shares at 16.0
+INFO - Transaction Net Value: 3503.8
+INFO - #####
+INFO - Liquid Cash: 467723391.37
+INFO - Current Value: 459022947.35
+INFO - #####
+INFO - ####2020-11-06 13:50:00####
+INFO - C_255.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.52
+INFO - Transaction Net Value: -12268.199999999999
+INFO - underlying: Shorting 35 shares at 350.53 | Going long 0 shares at 2032.0
+INFO - Transaction Net Value: 12268.55
+INFO - #####
+INFO - Liquid Cash: 467723391.72
+INFO - Current Value: -2296482998.2
+INFO - #####
+INFO - ####2020-11-06 13:51:00####
+INFO - C_295.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.47
+INFO - Transaction Net Value: -8761.75
+INFO - underlying: Shorting 25 shares at 350.49 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 8762.25
+INFO - #####
+INFO - Liquid Cash: 467723392.22
+INFO - Current Value: 468521674.6
+INFO - #####
+INFO - ####2020-11-06 13:52:00####
+WARNING - The trade order: ('C_373.0', 0, 23707) is not valid!
+INFO - underlying: Shorting 23707 shares at 350.41 | Going long 0 shares at 5.0
+INFO - Transaction Net Value: 8307169.870000001
+INFO - #####
+INFO - Liquid Cash: 476030562.09000003
+INFO - Current Value: 470449598.15000004
+INFO - #####
+INFO - ####2020-11-06 13:53:00####
+WARNING - The trade order: ('C_395.0', 0, 23252) is not valid!
+INFO - underlying: Shorting 23252 shares at 350.38 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8147035.76
+INFO - #####
+INFO - Liquid Cash: 484177597.85
+INFO - Current Value: 486516079.29
+INFO - #####
+INFO - ####2020-11-06 13:54:00####
+INFO - C_238.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.4
+INFO - Transaction Net Value: -8760.0
+INFO - underlying: Shorting 25 shares at 350.41 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8760.25
+INFO - #####
+INFO - Liquid Cash: 484177598.1
+INFO - Current Value: 489121244.70000005
+INFO - #####
+INFO - ####2020-11-06 13:55:00####
+INFO - C_311.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.47
+INFO - Transaction Net Value: -10163.630000000001
+INFO - underlying: Shorting 29 shares at 350.48 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 10163.92
+INFO - #####
+INFO - Liquid Cash: 484177598.39000005
+INFO - Current Value: 486559010.77000004
+INFO - #####
+INFO - ####2020-11-06 13:56:00####
+INFO - C_333.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.39
+INFO - Transaction Net Value: -8759.75
+INFO - underlying: Shorting 25 shares at 350.4 | Going long 0 shares at 302.0
+INFO - Transaction Net Value: 8760.0
+INFO - #####
+INFO - Liquid Cash: 484177598.64000005
+INFO - Current Value: 64440840.70000005
+INFO - #####
+INFO - ####2020-11-06 13:57:00####
+INFO - C_323.0: Shorting 0 shares at 22.0 | Going long 22 shares at 350.4
+INFO - Transaction Net Value: -7708.799999999999
+INFO - underlying: Shorting 22 shares at 350.41 | Going long 0 shares at 30.0
+INFO - Transaction Net Value: 7709.02
+INFO - #####
+INFO - Liquid Cash: 484177598.86
+INFO - Current Value: 444850838.46000004
+INFO - #####
+INFO - ####2020-11-06 13:58:00####
+INFO - C_319.0: Shorting 0 shares at 39.0 | Going long 39 shares at 350.42
+INFO - Transaction Net Value: -13666.380000000001
+INFO - underlying: Shorting 39 shares at 350.43 | Going long 0 shares at 9476.0
+INFO - Transaction Net Value: 13666.77
+INFO - #####
+INFO - Liquid Cash: 484177599.25
+INFO - Current Value: -12858254527.07
+INFO - #####
+INFO - ####2020-11-06 13:59:00####
+INFO - C_341.0: Shorting 0 shares at 160.0 | Going long 160 shares at 350.41
+INFO - Transaction Net Value: -56065.600000000006
+INFO - underlying: Shorting 160 shares at 350.42 | Going long 0 shares at 1566.0
+INFO - Transaction Net Value: 56067.200000000004
+INFO - #####
+INFO - Liquid Cash: 484177600.84999996
+INFO - Current Value: -1717869359.01
+INFO - #####
+INFO - ####2020-11-06 14:00:00####
+WARNING - The trade order: ('C_373.0', 0, 22409) is not valid!
+INFO - underlying: Shorting 22409 shares at 350.48 | Going long 0 shares at 2333.0
+INFO - Transaction Net Value: 7853906.32
+INFO - #####
+INFO - Liquid Cash: 492031507.16999996
+INFO - Current Value: -2843945190.45
+INFO - #####
+INFO - ####2020-11-06 14:01:00####
+INFO - C_321.0: Shorting 29 shares at 29.0 | Going long 0 shares at 350.62
+INFO - Transaction Net Value: 841.0
+INFO - underlying: Shorting 0 shares at 350.64 | Going long 29 shares at 692.0
+INFO - Transaction Net Value: -20068.0
+INFO - #####
+INFO - Liquid Cash: 492012280.16999996
+INFO - Current Value: -495182645.33000004
+INFO - #####
+INFO - ####2020-11-06 14:02:00####
+INFO - C_275.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.56
+INFO - Transaction Net Value: -8764.0
+INFO - underlying: Shorting 25 shares at 350.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8764.5
+INFO - #####
+INFO - Liquid Cash: 492012280.66999996
+INFO - Current Value: 496039504.66999996
+INFO - #####
+INFO - ####2020-11-06 14:03:00####
+WARNING - The trade order: ('C_373.0', 0, 13832) is not valid!
+INFO - underlying: Shorting 13832 shares at 350.41 | Going long 0 shares at 8125.0
+INFO - Transaction Net Value: 4846871.12
+INFO - #####
+INFO - Liquid Cash: 496859151.78999996
+INFO - Current Value: -11227335010.21
+INFO - #####
+INFO - ####2020-11-06 14:04:00####
+INFO - C_175.0: Shorting 0 shares at 65.0 | Going long 65 shares at 350.49
+INFO - Transaction Net Value: -22781.850000000002
+INFO - underlying: Shorting 65 shares at 350.5 | Going long 0 shares at 171.0
+INFO - Transaction Net Value: 22782.5
+INFO - #####
+INFO - Liquid Cash: 496859152.43999994
+INFO - Current Value: 251738955.68999994
+INFO - #####
+INFO - ####2020-11-06 14:05:00####
+INFO - C_210.0: Shorting 0 shares at 65.0 | Going long 65 shares at 350.37
+INFO - Transaction Net Value: -22774.05
+INFO - underlying: Shorting 65 shares at 350.38 | Going long 0 shares at 451.0
+INFO - Transaction Net Value: 22774.7
+INFO - #####
+INFO - Liquid Cash: 496859153.0899999
+INFO - Current Value: -153959567.6600001
+INFO - #####
+INFO - ####2020-11-06 14:06:00####
+INFO - C_285.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.49
+INFO - Transaction Net Value: -8762.25
+INFO - underlying: Shorting 25 shares at 350.5 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 8762.5
+INFO - #####
+INFO - Liquid Cash: 496859153.3399999
+INFO - Current Value: 496483437.5899999
+INFO - #####
+INFO - ####2020-11-06 14:07:00####
+WARNING - The trade order: ('C_374.0', 0, 20884) is not valid!
+INFO - underlying: Shorting 20884 shares at 350.43 | Going long 0 shares at 5223.0
+INFO - Transaction Net Value: 7318380.12
+INFO - #####
+INFO - Liquid Cash: 504177533.4599999
+INFO - Current Value: -7148807331.04
+INFO - #####
+INFO - ####2020-11-06 14:08:00####
+INFO - C_337.0: Shorting 0 shares at 15.0 | Going long 15 shares at 350.51
+INFO - Transaction Net Value: -5257.65
+INFO - underlying: Shorting 15 shares at 350.52 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 5257.799999999999
+INFO - #####
+INFO - Liquid Cash: 504177533.60999995
+INFO - Current Value: 507015672.35999995
+INFO - #####
+INFO - ####2020-11-06 14:09:00####
+INFO - C_321.0: Shorting 160 shares at 51.0 | Going long 0 shares at 350.64
+INFO - Transaction Net Value: 8160.0
+INFO - underlying: Shorting 0 shares at 350.65 | Going long 160 shares at 948.0
+INFO - Transaction Net Value: -151680.0
+INFO - #####
+INFO - Liquid Cash: 504034013.60999995
+INFO - Current Value: -872963445.7900002
+INFO - #####
+INFO - ####2020-11-06 14:10:00####
+WARNING - The trade order: ('C_355.0', 0, 1003) is not valid!
+INFO - underlying: Shorting 1003 shares at 350.69 | Going long 0 shares at 863.0
+INFO - Transaction Net Value: 351742.07
+INFO - #####
+INFO - Liquid Cash: 504385755.67999995
+INFO - Current Value: -756359828.12
+INFO - #####
+INFO - ####2020-11-06 14:11:00####
+INFO - C_215.0: Shorting 0 shares at 79.0 | Going long 79 shares at 350.54
+INFO - Transaction Net Value: -27692.66
+INFO - underlying: Shorting 79 shares at 350.55 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 27693.45
+INFO - #####
+INFO - Liquid Cash: 504385756.4699999
+INFO - Current Value: 506095491.56999993
+INFO - #####
+INFO - ####2020-11-06 14:12:00####
+INFO - C_314.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.59
+INFO - Transaction Net Value: -8764.75
+INFO - underlying: Shorting 25 shares at 350.6 | Going long 0 shares at 885.0
+INFO - Transaction Net Value: 8765.0
+INFO - #####
+INFO - Liquid Cash: 504385756.7199999
+INFO - Current Value: -779533212.9300001
+INFO - #####
+INFO - ####2020-11-06 14:13:00####
+INFO - C_313.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.6
+INFO - Transaction Net Value: -8765.0
+INFO - underlying: Shorting 25 shares at 350.61 | Going long 0 shares at 108.0
+INFO - Transaction Net Value: 8765.25
+INFO - #####
+INFO - Liquid Cash: 504385756.9699999
+INFO - Current Value: 350066066.9699999
+INFO - #####
+INFO - ####2020-11-06 14:14:00####
+WARNING - The trade order: ('C_362.0', 0, 1046) is not valid!
+INFO - underlying: Shorting 1046 shares at 350.62 | Going long 0 shares at 6035.0
+INFO - Transaction Net Value: 366748.52
+INFO - #####
+INFO - Liquid Cash: 504752505.4899999
+INFO - Current Value: -8347430822.860001
+INFO - #####
+INFO - ####2020-11-06 14:15:00####
+INFO - C_314.0: Shorting 0 shares at 77.0 | Going long 77 shares at 350.64
+INFO - Transaction Net Value: -26999.28
+INFO - underlying: Shorting 77 shares at 350.65 | Going long 0 shares at 17.0
+INFO - Transaction Net Value: 27000.05
+INFO - #####
+INFO - Liquid Cash: 504752506.25999993
+INFO - Current Value: 493486816.85999995
+INFO - #####
+INFO - ####2020-11-06 14:16:00####
+INFO - C_255.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.69
+INFO - Transaction Net Value: -12274.15
+INFO - underlying: Shorting 35 shares at 350.7 | Going long 0 shares at 885.0
+INFO - Transaction Net Value: 12274.5
+INFO - #####
+INFO - Liquid Cash: 504752506.60999995
+INFO - Current Value: -789461960.5400001
+INFO - #####
+INFO - ####2020-11-06 14:17:00####
+INFO - C_308.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.6
+INFO - Transaction Net Value: -10167.400000000001
+INFO - underlying: Shorting 29 shares at 350.61 | Going long 0 shares at 624.0
+INFO - Transaction Net Value: 10167.69
+INFO - #####
+INFO - Liquid Cash: 504752506.9
+INFO - Current Value: -404903387.1
+INFO - #####
+INFO - ####2020-11-06 14:18:00####
+INFO - C_314.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.71
+INFO - Transaction Net Value: -3507.1
+INFO - underlying: Shorting 10 shares at 350.72 | Going long 0 shares at 118.0
+INFO - Transaction Net Value: 3507.2000000000003
+INFO - #####
+INFO - Liquid Cash: 504752506.99999994
+INFO - Current Value: 333979732.1499999
+INFO - #####
+INFO - ####2020-11-06 14:19:00####
+INFO - C_308.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.65
+INFO - Transaction Net Value: -10168.849999999999
+INFO - underlying: Shorting 29 shares at 350.66 | Going long 0 shares at 140.0
+INFO - Transaction Net Value: 10169.140000000001
+INFO - #####
+INFO - Liquid Cash: 504752507.2899999
+INFO - Current Value: 300740101.5399999
+INFO - #####
+INFO - ####2020-11-06 14:20:00####
+INFO - C_270.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.6
+INFO - Transaction Net Value: -12271.0
+INFO - underlying: Shorting 35 shares at 350.61 | Going long 0 shares at 495.0
+INFO - Transaction Net Value: 12271.35
+INFO - #####
+INFO - Liquid Cash: 504752507.6399999
+INFO - Current Value: -220307251.36000007
+INFO - #####
+INFO - ####2020-11-06 14:21:00####
+INFO - C_331.0: Shorting 0 shares at 154.0 | Going long 154 shares at 350.6
+INFO - Transaction Net Value: -53992.4
+INFO - underlying: Shorting 154 shares at 350.61 | Going long 0 shares at 6594.0
+INFO - Transaction Net Value: 53993.94
+INFO - #####
+INFO - Liquid Cash: 504752509.17999995
+INFO - Current Value: -9170391801.82
+INFO - #####
+INFO - ####2020-11-06 14:22:00####
+INFO - C_320.0: Shorting 0 shares at 221.0 | Going long 221 shares at 350.57
+INFO - Transaction Net Value: -77475.97
+INFO - underlying: Shorting 221 shares at 350.58 | Going long 0 shares at 5839.0
+INFO - Transaction Net Value: 77478.18
+INFO - #####
+INFO - Liquid Cash: 504752511.3899999
+INFO - Current Value: -8066479488.559999
+INFO - #####
+INFO - ####2020-11-06 14:23:00####
+WARNING - The trade order: ('C_373.0', 0, 7789) is not valid!
+INFO - underlying: Shorting 7789 shares at 350.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 2730667.6199999996
+INFO - #####
+INFO - Liquid Cash: 507483179.00999993
+INFO - Current Value: 509225176.0599999
+INFO - #####
+INFO - ####2020-11-06 14:24:00####
+WARNING - The trade order: ('C_373.0', 0, 11169) is not valid!
+INFO - underlying: Shorting 11169 shares at 350.54 | Going long 0 shares at 7208.0
+INFO - Transaction Net Value: 3915181.2600000002
+INFO - #####
+INFO - Liquid Cash: 511398360.2699999
+INFO - Current Value: -10206723566.279999
+INFO - #####
+INFO - ####2020-11-06 14:25:00####
+INFO - C_347.5: Shorting 0 shares at 25.0 | Going long 25 shares at 350.59
+INFO - Transaction Net Value: -8764.75
+INFO - underlying: Shorting 25 shares at 350.59 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8764.75
+INFO - #####
+INFO - Liquid Cash: 511398360.2699999
+INFO - Current Value: 515421448.61999995
+INFO - #####
+INFO - ####2020-11-06 14:26:00####
+WARNING - The trade order: ('C_383.0', 0, 11959) is not valid!
+INFO - underlying: Shorting 11959 shares at 350.52 | Going long 0 shares at 73.0
+INFO - Transaction Net Value: 4191868.6799999997
+INFO - #####
+INFO - Liquid Cash: 515590228.9499999
+INFO - Current Value: 412534773.09999996
+INFO - #####
+INFO - ####2020-11-06 14:27:00####
+WARNING - The trade order: ('C_382.0', 0, 2844) is not valid!
+INFO - underlying: Shorting 2844 shares at 350.56 | Going long 0 shares at 606.0
+INFO - Transaction Net Value: 996992.64
+INFO - #####
+INFO - Liquid Cash: 516587221.5899999
+INFO - Current Value: -390562841.6600001
+INFO - #####
+INFO - ####2020-11-06 14:28:00####
+INFO - #####
+INFO - Liquid Cash: 516587221.5899999
+INFO - Current Value: 322433031.2399999
+INFO - #####
+INFO - ####2020-11-06 14:29:00####
+WARNING - The trade order: ('C_363.0', 0, 15173) is not valid!
+INFO - underlying: Shorting 15173 shares at 350.55 | Going long 0 shares at 137.0
+INFO - Transaction Net Value: 5318895.15
+INFO - #####
+INFO - Liquid Cash: 521906116.7399999
+INFO - Current Value: 320620306.1899999
+INFO - #####
+INFO - ####2020-11-06 14:30:00####
+INFO - C_239.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.54
+INFO - Transaction Net Value: -8763.5
+INFO - underlying: Shorting 25 shares at 350.55 | Going long 0 shares at 36.0
+INFO - Transaction Net Value: 8763.75
+INFO - #####
+INFO - Liquid Cash: 521906116.9899999
+INFO - Current Value: 482968466.0899999
+INFO - #####
+INFO - ####2020-11-06 14:31:00####
+INFO - C_352.0: Shorting 0 shares at 475.0 | Going long 475 shares at 350.51
+INFO - Transaction Net Value: -166492.25
+INFO - underlying: Shorting 475 shares at 350.52 | Going long 0 shares at 290.0
+INFO - Transaction Net Value: 166497.0
+INFO - #####
+INFO - Liquid Cash: 521906121.7399999
+INFO - Current Value: 84479744.8899999
+INFO - #####
+INFO - ####2020-11-06 14:32:00####
+WARNING - The trade order: ('C_374.0', 0, 8513) is not valid!
+INFO - underlying: Shorting 8513 shares at 350.68 | Going long 0 shares at 1795.0
+INFO - Transaction Net Value: 2985338.84
+INFO - #####
+INFO - Liquid Cash: 524891460.57999986
+INFO - Current Value: -2212534060.8700004
+INFO - #####
+INFO - ####2020-11-06 14:33:00####
+INFO - C_308.0: Shorting 0 shares at 103.0 | Going long 103 shares at 350.7
+INFO - Transaction Net Value: -36122.1
+INFO - underlying: Shorting 103 shares at 350.71 | Going long 0 shares at 1036.0
+INFO - Transaction Net Value: 36123.13
+INFO - #####
+INFO - Liquid Cash: 524891461.60999984
+INFO - Current Value: -1054902216.8900001
+INFO - #####
+INFO - ####2020-11-06 14:34:00####
+WARNING - The trade order: ('C_377.0', 0, 4917) is not valid!
+INFO - underlying: Shorting 4917 shares at 350.66 | Going long 0 shares at 36.0
+INFO - Transaction Net Value: 1724195.2200000002
+INFO - #####
+INFO - Liquid Cash: 526615656.82999986
+INFO - Current Value: 473318654.4299999
+INFO - #####
+INFO - ####2020-11-06 14:35:00####
+INFO - C_331.0: Shorting 0 shares at 214.0 | Going long 214 shares at 350.59
+INFO - Transaction Net Value: -75026.26
+INFO - underlying: Shorting 214 shares at 350.6 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 75028.40000000001
+INFO - #####
+INFO - Liquid Cash: 526615658.96999985
+INFO - Current Value: 528114016.3199999
+INFO - #####
+INFO - ####2020-11-06 14:36:00####
+INFO - C_319.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.5
+INFO - Transaction Net Value: -8762.5
+INFO - underlying: Shorting 25 shares at 350.51 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8762.75
+INFO - #####
+INFO - Liquid Cash: 526615659.21999985
+INFO - Current Value: 533999965.71999985
+INFO - #####
+INFO - ####2020-11-06 14:37:00####
+INFO - C_220.0: Shorting 0 shares at 36.0 | Going long 36 shares at 350.47
+INFO - Transaction Net Value: -12616.920000000002
+INFO - underlying: Shorting 36 shares at 350.49 | Going long 0 shares at 1238.0
+INFO - Transaction Net Value: 12617.64
+INFO - #####
+INFO - Liquid Cash: 526615659.9399998
+INFO - Current Value: -1366457340.51
+INFO - #####
+INFO - ####2020-11-06 14:38:00####
+INFO - C_342.5: Shorting 0 shares at 25.0 | Going long 25 shares at 350.47
+INFO - Transaction Net Value: -8761.75
+INFO - underlying: Shorting 25 shares at 350.49 | Going long 0 shares at 1036.0
+INFO - Transaction Net Value: 8762.25
+INFO - #####
+INFO - Liquid Cash: 526615660.4399998
+INFO - Current Value: -1056013937.0100002
+INFO - #####
+INFO - ####2020-11-06 14:39:00####
+INFO - C_342.0: Shorting 0 shares at 6.0 | Going long 6 shares at 350.31
+INFO - Transaction Net Value: -2101.86
+INFO - underlying: Shorting 6 shares at 350.32 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 2101.92
+INFO - #####
+INFO - Liquid Cash: 526615660.4999998
+INFO - Current Value: 533458678.64999986
+INFO - #####
+INFO - ####2020-11-06 14:40:00####
+INFO - C_170.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.24
+INFO - Transaction Net Value: -12258.4
+INFO - underlying: Shorting 35 shares at 350.25 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12258.75
+INFO - #####
+INFO - Liquid Cash: 526615660.84999985
+INFO - Current Value: 530071149.4499998
+INFO - #####
+INFO - ####2020-11-06 14:41:00####
+INFO - C_325.0: Shorting 0 shares at 15.0 | Going long 15 shares at 350.19
+INFO - Transaction Net Value: -5252.85
+INFO - underlying: Shorting 15 shares at 350.21 | Going long 0 shares at 407.0
+INFO - Transaction Net Value: 5253.15
+INFO - #####
+INFO - Liquid Cash: 526615661.1499998
+INFO - Current Value: -94296877.5000002
+INFO - #####
+INFO - ####2020-11-06 14:42:00####
+INFO - C_210.0: Shorting 0 shares at 27.0 | Going long 27 shares at 350.33
+INFO - Transaction Net Value: -9458.91
+INFO - underlying: Shorting 27 shares at 350.35 | Going long 0 shares at 138.0
+INFO - Transaction Net Value: 9459.45
+INFO - #####
+INFO - Liquid Cash: 526615661.68999976
+INFO - Current Value: 320856053.13999975
+INFO - #####
+INFO - ####2020-11-06 14:43:00####
+WARNING - The trade order: ('C_383.0', 0, 59410) is not valid!
+INFO - underlying: Shorting 59410 shares at 350.24 | Going long 0 shares at 105.0
+INFO - Transaction Net Value: 20807758.400000002
+INFO - #####
+INFO - Liquid Cash: 547423420.0899998
+INFO - Current Value: 387035064.0399998
+INFO - #####
+INFO - ####2020-11-06 14:44:00####
+INFO - C_204.0: Shorting 0 shares at 171.0 | Going long 171 shares at 350.04
+INFO - Transaction Net Value: -59856.840000000004
+INFO - underlying: Shorting 171 shares at 350.06 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 59860.26
+INFO - #####
+INFO - Liquid Cash: 547423423.5099998
+INFO - Current Value: 550625214.1099998
+INFO - #####
+INFO - ####2020-11-06 14:45:00####
+WARNING - The trade order: ('C_440.0', 0, 23705) is not valid!
+INFO - underlying: Shorting 23705 shares at 349.98 | Going long 0 shares at 248.0
+INFO - Transaction Net Value: 8296275.9
+INFO - #####
+INFO - Liquid Cash: 555719699.4099997
+INFO - Current Value: 158509800.4599997
+INFO - #####
+INFO - ####2020-11-06 14:46:00####
+WARNING - The trade order: ('C_395.0', 0, 36506) is not valid!
+INFO - underlying: Shorting 36506 shares at 349.88 | Going long 0 shares at 985.0
+INFO - Transaction Net Value: 12772719.28
+INFO - #####
+INFO - Liquid Cash: 568492418.6899997
+INFO - Current Value: -1047295523.4100002
+INFO - #####
+INFO - ####2020-11-06 14:47:00####
+WARNING - The trade order: ('C_415.0', 0, 56877) is not valid!
+INFO - underlying: Shorting 56877 shares at 349.83 | Going long 0 shares at 644.0
+INFO - Transaction Net Value: 19897280.91
+INFO - #####
+INFO - Liquid Cash: 588389699.5999997
+INFO - Current Value: -510349734.7500003
+INFO - #####
+INFO - ####2020-11-06 14:48:00####
+INFO - C_215.0: Shorting 0 shares at 22.0 | Going long 22 shares at 349.9
+INFO - Transaction Net Value: -7697.799999999999
+INFO - underlying: Shorting 22 shares at 349.91 | Going long 0 shares at 137.0
+INFO - Transaction Net Value: 7698.02
+INFO - #####
+INFO - Liquid Cash: 588389699.8199997
+INFO - Current Value: 356065700.3199997
+INFO - #####
+INFO - ####2020-11-06 14:49:00####
+INFO - C_324.0: Shorting 0 shares at 39.0 | Going long 39 shares at 349.93
+INFO - Transaction Net Value: -13647.27
+INFO - underlying: Shorting 39 shares at 349.94 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 13647.66
+INFO - #####
+INFO - Liquid Cash: 588389700.2099997
+INFO - Current Value: 593842029.6599997
+INFO - #####
+INFO - ####2020-11-06 14:50:00####
+WARNING - The trade order: ('C_370.0', 0, 34641) is not valid!
+INFO - underlying: Shorting 34641 shares at 349.91 | Going long 0 shares at 1225.0
+INFO - Transaction Net Value: 12121232.31
+INFO - #####
+INFO - Liquid Cash: 600510932.5199996
+INFO - Current Value: -1532700180.9800005
+INFO - #####
+INFO - ####2020-11-06 14:51:00####
+WARNING - The trade order: ('C_369.0', 0, 5140) is not valid!
+INFO - underlying: Shorting 5140 shares at 349.98 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 1798897.2000000002
+INFO - #####
+INFO - Liquid Cash: 602309829.7199997
+INFO - Current Value: 603796321.7699996
+INFO - #####
+INFO - ####2020-11-06 14:52:00####
+INFO - C_240.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.02
+INFO - Transaction Net Value: -8750.5
+INFO - underlying: Shorting 25 shares at 350.03 | Going long 0 shares at 336.0
+INFO - Transaction Net Value: 8750.75
+INFO - #####
+INFO - Liquid Cash: 602309829.9699997
+INFO - Current Value: 17994514.269999668
+INFO - #####
+INFO - ####2020-11-06 14:53:00####
+INFO - C_195.0: Shorting 0 shares at 54.0 | Going long 54 shares at 349.95
+INFO - Transaction Net Value: -18897.3
+INFO - underlying: Shorting 54 shares at 349.96 | Going long 0 shares at 860.0
+INFO - Transaction Net Value: 18897.84
+INFO - #####
+INFO - Liquid Cash: 602309830.5099998
+INFO - Current Value: -898367355.7400002
+INFO - #####
+INFO - ####2020-11-06 14:54:00####
+INFO - C_352.0: Shorting 0 shares at 75.0 | Going long 75 shares at 350.01
+INFO - Transaction Net Value: -26250.75
+INFO - underlying: Shorting 75 shares at 350.02 | Going long 0 shares at 1128.0
+INFO - Transaction Net Value: 26251.5
+INFO - #####
+INFO - Liquid Cash: 602309831.2599998
+INFO - Current Value: -1368179158.0900004
+INFO - #####
+INFO - ####2020-11-06 14:55:00####
+INFO - C_360.0: Shorting 0 shares at 62.0 | Going long 62 shares at 350.0
+INFO - Transaction Net Value: -21700.0
+INFO - underlying: Shorting 62 shares at 350.01 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 21700.62
+INFO - #####
+INFO - Liquid Cash: 602309831.8799998
+INFO - Current Value: 602073480.8799998
+INFO - #####
+INFO - ####2020-11-06 14:56:00####
+INFO - C_306.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.94
+INFO - Transaction Net Value: -8748.5
+INFO - underlying: Shorting 25 shares at 349.95 | Going long 0 shares at 846.0
+INFO - Transaction Net Value: 8748.75
+INFO - #####
+INFO - Liquid Cash: 602309832.1299998
+INFO - Current Value: -871669408.7700002
+INFO - #####
+INFO - ####2020-11-06 14:57:00####
+INFO - C_330.0: Shorting 0 shares at 10.0 | Going long 10 shares at 350.01
+INFO - Transaction Net Value: -3500.1
+INFO - underlying: Shorting 10 shares at 350.02 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 3500.2
+INFO - #####
+INFO - Liquid Cash: 602309832.2299998
+INFO - Current Value: 604073081.8799998
+INFO - #####
+INFO - ####2020-11-06 14:58:00####
+INFO - #####
+INFO - Liquid Cash: 602309832.2299998
+INFO - Current Value: 603522372.4299997
+INFO - #####
+INFO - ####2020-11-06 14:59:00####
+INFO - C_353.0: Shorting 0 shares at 225.0 | Going long 225 shares at 349.87
+INFO - Transaction Net Value: -78720.75
+INFO - underlying: Shorting 225 shares at 349.88 | Going long 0 shares at 108.0
+INFO - Transaction Net Value: 78723.0
+INFO - #####
+INFO - Liquid Cash: 602309834.4799998
+INFO - Current Value: 415363970.0299998
+INFO - #####
+INFO - ####2020-11-06 15:00:00####
+INFO - C_319.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.97
+INFO - Transaction Net Value: -8749.25
+INFO - underlying: Shorting 25 shares at 349.99 | Going long 0 shares at 42.0
+INFO - Transaction Net Value: 8749.75
+INFO - #####
+INFO - Liquid Cash: 602309834.9799998
+INFO - Current Value: 538246146.0299997
+INFO - #####
+INFO - ####2020-11-06 15:01:00####
+WARNING - The trade order: ('C_440.0', 0, 34338) is not valid!
+INFO - underlying: Shorting 34338 shares at 349.81 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12011775.78
+INFO - #####
+INFO - Liquid Cash: 614321610.7599998
+INFO - Current Value: 615616818.1099998
+INFO - #####
+INFO - ####2020-11-06 15:02:00####
+INFO - C_353.0: Shorting 0 shares at 214.0 | Going long 214 shares at 349.52
+INFO - Transaction Net Value: -74797.28
+INFO - underlying: Shorting 214 shares at 349.53 | Going long 0 shares at 13.0
+INFO - Transaction Net Value: 74799.42
+INFO - #####
+INFO - Liquid Cash: 614321612.8999997
+INFO - Current Value: 604601691.6999998
+INFO - #####
+INFO - ####2020-11-06 15:03:00####
+INFO - C_270.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.44
+INFO - Transaction Net Value: -8736.0
+INFO - underlying: Shorting 25 shares at 349.46 | Going long 0 shares at 1566.0
+INFO - Transaction Net Value: 8736.5
+INFO - #####
+INFO - Liquid Cash: 614321613.3999997
+INFO - Current Value: -2174181744.0
+INFO - #####
+INFO - ####2020-11-06 15:04:00####
+INFO - C_333.0: Shorting 0 shares at 49.0 | Going long 49 shares at 349.39
+INFO - Transaction Net Value: -17120.11
+INFO - underlying: Shorting 49 shares at 349.41 | Going long 0 shares at 5542.0
+INFO - Transaction Net Value: 17121.09
+INFO - #####
+INFO - Liquid Cash: 614321614.3799998
+INFO - Current Value: -9254922527.27
+INFO - #####
+INFO - ####2020-11-06 15:05:00####
+WARNING - The trade order: ('C_400.0', 0, 34009) is not valid!
+INFO - underlying: Shorting 34009 shares at 349.58 | Going long 0 shares at 3.0
+INFO - Transaction Net Value: 11888866.219999999
+INFO - #####
+INFO - Liquid Cash: 626210480.5999998
+INFO - Current Value: 633817795.6499997
+INFO - #####
+INFO - ####2020-11-06 15:06:00####
+INFO - C_327.0: Shorting 0 shares at 13.0 | Going long 13 shares at 349.43
+INFO - Transaction Net Value: -4542.59
+INFO - underlying: Shorting 13 shares at 349.45 | Going long 0 shares at 1348.0
+INFO - Transaction Net Value: 4542.849999999999
+INFO - #####
+INFO - Liquid Cash: 626210480.8599998
+INFO - Current Value: -1808152053.1900003
+INFO - #####
+INFO - ####2020-11-06 15:07:00####
+INFO - C_316.0: Shorting 0 shares at 29.0 | Going long 29 shares at 349.4
+INFO - Transaction Net Value: -10132.599999999999
+INFO - underlying: Shorting 29 shares at 349.41 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 10132.890000000001
+INFO - #####
+INFO - Liquid Cash: 626210481.1499997
+INFO - Current Value: 634736671.1499997
+INFO - #####
+INFO - ####2020-11-06 15:08:00####
+INFO - C_313.0: Shorting 0 shares at 150.0 | Going long 150 shares at 349.44
+INFO - Transaction Net Value: -52416.0
+INFO - underlying: Shorting 150 shares at 349.45 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 52417.5
+INFO - #####
+INFO - Liquid Cash: 626210482.6499997
+INFO - Current Value: 636305080.2499998
+INFO - #####
+INFO - ####2020-11-06 15:09:00####
+INFO - C_332.0: Shorting 0 shares at 52.0 | Going long 52 shares at 349.57
+INFO - Transaction Net Value: -18177.64
+INFO - underlying: Shorting 52 shares at 349.58 | Going long 0 shares at 57610.0
+INFO - Transaction Net Value: 18178.16
+INFO - #####
+INFO - Liquid Cash: 626210483.1699997
+INFO - Current Value: -104044869903.78
+INFO - #####
+INFO - ####2020-11-06 15:10:00####
+WARNING - The trade order: ('C_366.0', 0, 3095) is not valid!
+INFO - underlying: Shorting 3095 shares at 349.59 | Going long 0 shares at 24541.0
+INFO - Transaction Net Value: 1081981.0499999998
+INFO - #####
+INFO - Liquid Cash: 627292464.2199997
+INFO - Current Value: -44048122613.73
+INFO - #####
+INFO - ####2020-11-06 15:11:00####
+INFO - C_324.0: Shorting 0 shares at 35.0 | Going long 35 shares at 349.6
+INFO - Transaction Net Value: -12236.0
+INFO - underlying: Shorting 35 shares at 349.61 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12236.35
+INFO - #####
+INFO - Liquid Cash: 627292464.5699997
+INFO - Current Value: 628920327.5699997
+INFO - #####
+INFO - ####2020-11-06 15:12:00####
+INFO - C_340.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.8
+INFO - Transaction Net Value: -8745.0
+INFO - underlying: Shorting 25 shares at 349.82 | Going long 0 shares at 3.0
+INFO - Transaction Net Value: 8745.5
+INFO - #####
+INFO - Liquid Cash: 627292465.0699997
+INFO - Current Value: 624008125.0699997
+INFO - #####
+INFO - ####2020-11-06 15:13:00####
+WARNING - The trade order: ('C_369.0', 0, 9750) is not valid!
+INFO - underlying: Shorting 9750 shares at 349.82 | Going long 0 shares at 291.0
+INFO - Transaction Net Value: 3410745.0
+INFO - #####
+INFO - Liquid Cash: 630703210.0699997
+INFO - Current Value: 100368838.71999969
+INFO - #####
+INFO - ####2020-11-06 15:14:00####
+INFO - C_185.0: Shorting 0 shares at 54.0 | Going long 54 shares at 349.8
+INFO - Transaction Net Value: -18889.2
+INFO - underlying: Shorting 54 shares at 349.82 | Going long 0 shares at 2.0
+INFO - Transaction Net Value: 18890.28
+INFO - #####
+INFO - Liquid Cash: 630703211.1499996
+INFO - Current Value: 630096621.1499996
+INFO - #####
+INFO - ####2020-11-06 15:15:00####
+INFO - C_349.0: Shorting 0 shares at 187.0 | Going long 187 shares at 349.8
+INFO - Transaction Net Value: -65412.6
+INFO - underlying: Shorting 187 shares at 349.81 | Going long 0 shares at 63.0
+INFO - Transaction Net Value: 65414.47
+INFO - #####
+INFO - Liquid Cash: 630703213.0199996
+INFO - Current Value: 518413910.0199996
+INFO - #####
+INFO - ####2020-11-06 15:16:00####
+INFO - C_301.0: Shorting 0 shares at 18.0 | Going long 18 shares at 349.7
+INFO - Transaction Net Value: -6294.599999999999
+INFO - underlying: Shorting 18 shares at 349.71 | Going long 0 shares at 429.0
+INFO - Transaction Net Value: 6294.78
+INFO - #####
+INFO - Liquid Cash: 630703213.1999996
+INFO - Current Value: -153488032.30000043
+INFO - #####
+INFO - ####2020-11-06 15:17:00####
+INFO - C_220.0: Shorting 0 shares at 17.0 | Going long 17 shares at 349.72
+INFO - Transaction Net Value: -5945.240000000001
+INFO - underlying: Shorting 17 shares at 349.73 | Going long 0 shares at 9476.0
+INFO - Transaction Net Value: 5945.41
+INFO - #####
+INFO - Liquid Cash: 630703213.3699995
+INFO - Current Value: -16714859696.830002
+INFO - #####
+INFO - ####2020-11-06 15:18:00####
+INFO - C_342.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.64
+INFO - Transaction Net Value: -8741.0
+INFO - underlying: Shorting 25 shares at 349.65 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8741.25
+INFO - #####
+INFO - Liquid Cash: 630703213.6199995
+INFO - Current Value: 632833091.2199994
+INFO - #####
+INFO - ####2020-11-06 15:19:00####
+INFO - C_337.0: Shorting 0 shares at 174.0 | Going long 174 shares at 349.56
+INFO - Transaction Net Value: -60823.44
+INFO - underlying: Shorting 174 shares at 349.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 60826.92
+INFO - #####
+INFO - Liquid Cash: 630703217.0999994
+INFO - Current Value: 638835895.4999994
+INFO - #####
+INFO - ####2020-11-06 15:20:00####
+WARNING - The trade order: ('C_367.0', 0, 26819) is not valid!
+INFO - underlying: Shorting 26819 shares at 349.58 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 9375386.02
+INFO - #####
+INFO - Liquid Cash: 640078603.1199994
+INFO - Current Value: 646900989.1699994
+INFO - #####
+INFO - ####2020-11-06 15:21:00####
+WARNING - The trade order: ('C_353.0', 0, 378) is not valid!
+INFO - underlying: Shorting 378 shares at 349.45 | Going long 0 shares at 5268.0
+INFO - Transaction Net Value: 132092.1
+INFO - #####
+INFO - Liquid Cash: 640210695.2199994
+INFO - Current Value: -9131180814.18
+INFO - #####
+INFO - ####2020-11-06 15:22:00####
+INFO - C_280.0: Shorting 0 shares at 25.0 | Going long 25 shares at 349.27
+INFO - Transaction Net Value: -8731.75
+INFO - underlying: Shorting 25 shares at 349.28 | Going long 0 shares at 19.0
+INFO - Transaction Net Value: 8732.0
+INFO - #####
+INFO - Liquid Cash: 640210695.4699994
+INFO - Current Value: 607167620.0199995
+INFO - #####
+INFO - ####2020-11-06 15:23:00####
+INFO - C_255.0: Shorting 0 shares at 150.0 | Going long 150 shares at 349.34
+INFO - Transaction Net Value: -52400.99999999999
+INFO - underlying: Shorting 150 shares at 349.36 | Going long 0 shares at 310.0
+INFO - Transaction Net Value: 52404.0
+INFO - #####
+INFO - Liquid Cash: 640210698.4699994
+INFO - Current Value: 65500236.569999434
+INFO - #####
+INFO - ####2020-11-06 15:24:00####
+INFO - C_175.0: Shorting 0 shares at 51.0 | Going long 51 shares at 349.64
+INFO - Transaction Net Value: -17831.64
+INFO - underlying: Shorting 51 shares at 349.65 | Going long 0 shares at 3279.0
+INFO - Transaction Net Value: 17832.149999999998
+INFO - #####
+INFO - Liquid Cash: 640210698.9799994
+INFO - Current Value: -5441065633.42
+INFO - #####
+INFO - ####2020-11-06 15:25:00####
+INFO - C_332.0: Shorting 160 shares at 160.0 | Going long 0 shares at 349.51
+INFO - Transaction Net Value: 25600.0
+INFO - underlying: Shorting 0 shares at 349.52 | Going long 160 shares at 3797.0
+INFO - Transaction Net Value: -607520.0
+INFO - #####
+INFO - Liquid Cash: 639628778.9799994
+INFO - Current Value: -6412184469.250001
+INFO - #####
+INFO - ####2020-11-06 15:26:00####
+INFO - C_329.0: Shorting 0 shares at 39.0 | Going long 39 shares at 349.53
+INFO - Transaction Net Value: -13631.669999999998
+INFO - underlying: Shorting 39 shares at 349.54 | Going long 0 shares at 33.0
+INFO - Transaction Net Value: 13632.060000000001
+INFO - #####
+INFO - Liquid Cash: 639628779.3699994
+INFO - Current Value: 579911762.6799995
+INFO - #####
+INFO - ####2020-11-06 15:27:00####
+INFO - C_234.0: Shorting 0 shares at 51.0 | Going long 51 shares at 349.7
+INFO - Transaction Net Value: -17834.7
+INFO - underlying: Shorting 51 shares at 349.71 | Going long 0 shares at 2109.0
+INFO - Transaction Net Value: 17835.21
+INFO - #####
+INFO - Liquid Cash: 639628779.8799994
+INFO - Current Value: -3277675669.2200007
+INFO - #####
+INFO - ####2020-11-06 15:28:00####
+INFO - C_336.0: Shorting 0 shares at 134.0 | Going long 134 shares at 349.94
+INFO - Transaction Net Value: -46891.96
+INFO - underlying: Shorting 134 shares at 349.95 | Going long 0 shares at 139.0
+INFO - Transaction Net Value: 46893.299999999996
+INFO - #####
+INFO - Liquid Cash: 639628781.2199993
+INFO - Current Value: 384441557.59999925
+INFO - #####
+INFO - ####2020-11-06 15:29:00####
+INFO - C_344.0: Shorting 0 shares at 105.0 | Going long 105 shares at 349.98
+INFO - Transaction Net Value: -36747.9
+INFO - underlying: Shorting 105 shares at 349.99 | Going long 0 shares at 388.0
+INFO - Transaction Net Value: 36748.950000000004
+INFO - #####
+INFO - Liquid Cash: 639628782.2699994
+INFO - Current Value: -80164844.2700006
+INFO - #####
+INFO - ####2020-11-06 15:30:00####
+INFO - C_306.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.0
+INFO - Transaction Net Value: -10150.0
+INFO - underlying: Shorting 29 shares at 350.01 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 10150.289999999999
+INFO - #####
+INFO - Liquid Cash: 639628782.5599993
+INFO - Current Value: 642299805.5599993
+INFO - #####
+INFO - ####2020-11-06 15:31:00####
+INFO - C_358.0: Shorting 0 shares at 159.0 | Going long 159 shares at 350.21
+INFO - Transaction Net Value: -55683.39
+INFO - underlying: Shorting 159 shares at 350.22 | Going long 0 shares at 13561.0
+INFO - Transaction Net Value: 55684.98
+INFO - #####
+INFO - Liquid Cash: 639628784.1499994
+INFO - Current Value: -24563422060.18
+INFO - #####
+INFO - ####2020-11-06 15:32:00####
+INFO - C_215.0: Shorting 0 shares at 24.0 | Going long 24 shares at 350.36
+INFO - Transaction Net Value: -8408.64
+INFO - underlying: Shorting 24 shares at 350.37 | Going long 0 shares at 16.0
+INFO - Transaction Net Value: 8408.880000000001
+INFO - #####
+INFO - Liquid Cash: 639628784.3899994
+INFO - Current Value: 613840241.1099995
+INFO - #####
+INFO - ####2020-11-06 15:33:00####
+WARNING - The trade order: ('C_366.0', 0, 6589) is not valid!
+INFO - underlying: Shorting 6589 shares at 350.35 | Going long 0 shares at 3068.0
+INFO - Transaction Net Value: 2308456.1500000004
+INFO - #####
+INFO - Liquid Cash: 641937240.5399994
+INFO - Current Value: -5078279885.280002
+INFO - #####
+INFO - ####2020-11-06 15:34:00####
+INFO - C_258.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.28
+INFO - Transaction Net Value: -12259.8
+INFO - underlying: Shorting 35 shares at 350.29 | Going long 0 shares at 357.0
+INFO - Transaction Net Value: 12260.150000000001
+INFO - #####
+INFO - Liquid Cash: 641937240.8899994
+INFO - Current Value: -17970128.55000061
+INFO - #####
+INFO - ####2020-11-06 15:35:00####
+INFO - C_351.0: Shorting 0 shares at 50.0 | Going long 50 shares at 350.26
+INFO - Transaction Net Value: -17513.0
+INFO - underlying: Shorting 50 shares at 350.27 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 17513.5
+INFO - #####
+INFO - Liquid Cash: 641937241.3899994
+INFO - Current Value: 644398379.4099994
+INFO - #####
+INFO - ####2020-11-06 15:36:00####
+INFO - C_270.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.19
+INFO - Transaction Net Value: -8754.75
+INFO - underlying: Shorting 25 shares at 350.2 | Going long 0 shares at 5368.0
+INFO - Transaction Net Value: 8755.0
+INFO - #####
+INFO - Liquid Cash: 641937241.6399994
+INFO - Current Value: -9369134015.23
+INFO - #####
+INFO - ####2020-11-06 15:37:00####
+INFO - C_307.0: Shorting 0 shares at 152.0 | Going long 152 shares at 350.23
+INFO - Transaction Net Value: -53234.96000000001
+INFO - underlying: Shorting 152 shares at 350.24 | Going long 0 shares at 27.0
+INFO - Transaction Net Value: 53236.48
+INFO - #####
+INFO - Liquid Cash: 641937243.1599994
+INFO - Current Value: 599401365.3699993
+INFO - #####
+INFO - ####2020-11-06 15:38:00####
+INFO - C_170.0: Shorting 0 shares at 76.0 | Going long 76 shares at 350.29
+INFO - Transaction Net Value: -26622.04
+INFO - underlying: Shorting 76 shares at 350.31 | Going long 0 shares at 10.0
+INFO - Transaction Net Value: 26623.56
+INFO - #####
+INFO - Liquid Cash: 641937244.6799994
+INFO - Current Value: 625665156.5099994
+INFO - #####
+INFO - ####2020-11-06 15:39:00####
+INFO - C_275.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.39
+INFO - Transaction Net Value: -8759.75
+INFO - underlying: Shorting 25 shares at 350.4 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8760.0
+INFO - #####
+INFO - Liquid Cash: 641937244.9299994
+INFO - Current Value: 647085990.4599992
+INFO - #####
+INFO - ####2020-11-06 15:40:00####
+INFO - C_165.0: Shorting 0 shares at 27.0 | Going long 27 shares at 350.33
+INFO - Transaction Net Value: -9458.91
+INFO - underlying: Shorting 27 shares at 350.35 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 9459.45
+INFO - #####
+INFO - Liquid Cash: 641937245.4699994
+INFO - Current Value: 644795837.3799995
+INFO - #####
+INFO - ####2020-11-06 15:41:00####
+WARNING - The trade order: ('C_379.0', 0, 4489) is not valid!
+INFO - underlying: Shorting 4489 shares at 350.45 | Going long 0 shares at 1.0
+INFO - Transaction Net Value: 1573170.05
+INFO - #####
+INFO - Liquid Cash: 643510415.5199994
+INFO - Current Value: 654882227.3999994
+INFO - #####
+INFO - ####2020-11-06 15:42:00####
+WARNING - The trade order: ('C_373.0', 0, 29066) is not valid!
+INFO - underlying: Shorting 29066 shares at 350.64 | Going long 0 shares at 8.0
+INFO - Transaction Net Value: 10191702.24
+INFO - #####
+INFO - Liquid Cash: 653702117.7599994
+INFO - Current Value: 640428983.7699993
+INFO - #####
+INFO - ####2020-11-06 15:43:00####
+INFO - C_327.5: Shorting 0 shares at 109.0 | Going long 109 shares at 350.78
+INFO - Transaction Net Value: -38235.02
+INFO - underlying: Shorting 109 shares at 350.79 | Going long 0 shares at 416.0
+INFO - Transaction Net Value: 38236.11
+INFO - #####
+INFO - Liquid Cash: 653702118.8499994
+INFO - Current Value: -127052750.09000057
+INFO - #####
+INFO - ####2020-11-06 15:44:00####
+INFO - C_215.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.74
+INFO - Transaction Net Value: -10171.460000000001
+INFO - underlying: Shorting 29 shares at 350.75 | Going long 0 shares at 62.0
+INFO - Transaction Net Value: 10171.75
+INFO - #####
+INFO - Liquid Cash: 653702119.1399994
+INFO - Current Value: 537228086.1199993
+INFO - #####
+INFO - ####2020-11-06 15:45:00####
+INFO - C_175.0: Shorting 0 shares at 17.0 | Going long 17 shares at 350.91
+INFO - Transaction Net Value: -5965.47
+INFO - underlying: Shorting 17 shares at 350.92 | Going long 0 shares at 31.0
+INFO - Transaction Net Value: 5965.64
+INFO - #####
+INFO - Liquid Cash: 653702119.3099993
+INFO - Current Value: 595573829.8799993
+INFO - #####
+INFO - ####2020-11-06 15:46:00####
+WARNING - The trade order: ('C_359.0', 0, 22960) is not valid!
+INFO - underlying: Shorting 22960 shares at 351.18 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8063092.8
+INFO - #####
+INFO - Liquid Cash: 661765212.1099993
+INFO - Current Value: 668594538.6999992
+INFO - #####
+INFO - ####2020-11-06 15:47:00####
+INFO - C_338.0: Shorting 0 shares at 45.0 | Going long 45 shares at 351.24
+INFO - Transaction Net Value: -15805.800000000001
+INFO - underlying: Shorting 45 shares at 351.26 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 15806.699999999999
+INFO - #####
+INFO - Liquid Cash: 661765213.0099994
+INFO - Current Value: 663732886.4899994
+INFO - #####
+INFO - ####2020-11-06 15:48:00####
+WARNING - The trade order: ('C_370.0', 0, 35898) is not valid!
+INFO - underlying: Shorting 35898 shares at 351.25 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 12609172.5
+INFO - #####
+INFO - Liquid Cash: 674374385.5099994
+INFO - Current Value: 676548122.9899994
+INFO - #####
+INFO - ####2020-11-06 15:49:00####
+WARNING - The trade order: ('C_385.0', 0, 26017) is not valid!
+INFO - underlying: Shorting 26017 shares at 351.23 | Going long 0 shares at 20.0
+INFO - Transaction Net Value: 9137950.91
+INFO - #####
+INFO - Liquid Cash: 683512336.4199994
+INFO - Current Value: 644974169.3599993
+INFO - #####
+INFO - ####2020-11-06 15:50:00####
+INFO - C_325.0: Shorting 0 shares at 365.0 | Going long 365 shares at 351.37
+INFO - Transaction Net Value: -128250.05
+INFO - underlying: Shorting 365 shares at 351.38 | Going long 0 shares at 222.0
+INFO - Transaction Net Value: 128253.7
+INFO - #####
+INFO - Liquid Cash: 683512340.0699995
+INFO - Current Value: 252998675.05999944
+INFO - #####
+INFO - ####2020-11-06 15:51:00####
+INFO - C_335.0: Shorting 0 shares at 45.0 | Going long 45 shares at 351.24
+INFO - Transaction Net Value: -15805.800000000001
+INFO - underlying: Shorting 45 shares at 351.25 | Going long 0 shares at 62.0
+INFO - Transaction Net Value: 15806.25
+INFO - #####
+INFO - Liquid Cash: 683512340.5199995
+INFO - Current Value: 561729985.9999995
+INFO - #####
+INFO - ####2020-11-06 15:52:00####
+INFO - C_255.0: Shorting 0 shares at 25.0 | Going long 25 shares at 351.05
+INFO - Transaction Net Value: -8776.25
+INFO - underlying: Shorting 25 shares at 351.06 | Going long 0 shares at 13.0
+INFO - Transaction Net Value: 8776.5
+INFO - #####
+INFO - Liquid Cash: 683512340.7699995
+INFO - Current Value: 683323808.1199995
+INFO - #####
+INFO - ####2020-11-06 15:53:00####
+INFO - C_310.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.94
+INFO - Transaction Net Value: -8773.5
+INFO - underlying: Shorting 25 shares at 350.95 | Going long 0 shares at 76.0
+INFO - Transaction Net Value: 8773.75
+INFO - #####
+INFO - Liquid Cash: 683512341.0199995
+INFO - Current Value: 534387945.39999944
+INFO - #####
+INFO - ####2020-11-06 15:54:00####
+INFO - C_332.0: Shorting 0 shares at 43.0 | Going long 43 shares at 351.08
+INFO - Transaction Net Value: -15096.439999999999
+INFO - underlying: Shorting 43 shares at 351.09 | Going long 0 shares at 167.0
+INFO - Transaction Net Value: 15096.869999999999
+INFO - #####
+INFO - Liquid Cash: 683512341.4499995
+INFO - Current Value: 353421442.64999944
+INFO - #####
+INFO - ####2020-11-06 15:55:00####
+INFO - #####
+INFO - Liquid Cash: 683512341.4499995
+INFO - Current Value: 292349655.0999995
+INFO - #####
+INFO - ####2020-11-06 15:56:00####
+WARNING - The trade order: ('C_359.0', 0, 838) is not valid!
+INFO - underlying: Shorting 838 shares at 350.55 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 293760.9
+INFO - #####
+INFO - Liquid Cash: 683806102.3499994
+INFO - Current Value: 686038612.4499995
+INFO - #####
+INFO - ####2020-11-06 15:57:00####
+WARNING - The trade order: ('C_377.0', 0, 23883) is not valid!
+INFO - underlying: Shorting 23883 shares at 350.53 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 8371707.989999999
+INFO - #####
+INFO - Liquid Cash: 692177810.3399994
+INFO - Current Value: 694529756.4899994
+INFO - #####
+INFO - ####2020-11-06 15:58:00####
+WARNING - The trade order: ('C_367.0', 0, 2249) is not valid!
+INFO - underlying: Shorting 2249 shares at 350.38 | Going long 0 shares at 511.0
+INFO - Transaction Net Value: 788004.62
+INFO - #####
+INFO - Liquid Cash: 692965814.9599994
+INFO - Current Value: -323274477.99000055
+INFO - #####
+INFO - ####2020-11-06 15:59:00####
+INFO - C_303.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.3
+INFO - Transaction Net Value: -8757.5
+INFO - underlying: Shorting 25 shares at 350.31 | Going long 0 shares at 5827.0
+INFO - Transaction Net Value: 8757.75
+INFO - #####
+INFO - Liquid Cash: 692965815.2099994
+INFO - Current Value: -11025105814.29
+INFO - #####
+INFO - ####2020-11-06 16:00:00####
+INFO - #####
+INFO - Liquid Cash: 692965815.2099994
+INFO - Current Value: 500025620.5599994
+INFO - #####
+INFO - ####2020-11-06 16:01:00####
+INFO - C_344.0: Shorting 0 shares at 29.0 | Going long 29 shares at 350.23
+INFO - Transaction Net Value: -10156.67
+INFO - underlying: Shorting 29 shares at 350.26 | Going long 0 shares at 11.0
+INFO - Transaction Net Value: 10157.539999999999
+INFO - #####
+INFO - Liquid Cash: 692965816.0799994
+INFO - Current Value: 675540450.0299994
+INFO - #####
+INFO - ####2020-11-06 16:02:00####
+INFO - C_364.0: Shorting 0 shares at 60.0 | Going long 60 shares at 350.38
+INFO - Transaction Net Value: -21022.8
+INFO - underlying: Shorting 60 shares at 350.41 | Going long 0 shares at 592.0
+INFO - Transaction Net Value: 21024.600000000002
+INFO - #####
+INFO - Liquid Cash: 692965817.8799995
+INFO - Current Value: -492574612.4200005
+INFO - #####
+INFO - ####2020-11-06 16:03:00####
+WARNING - The trade order: ('C_363.0', 0, 704) is not valid!
+INFO - underlying: Shorting 704 shares at 350.23 | Going long 0 shares at 3672.0
+INFO - Transaction Net Value: 246561.92
+INFO - #####
+INFO - Liquid Cash: 693212379.7999995
+INFO - Current Value: -6692242331.900001
+INFO - #####
+INFO - ####2020-11-06 16:04:00####
+INFO - C_303.0: Shorting 0 shares at 82.0 | Going long 82 shares at 350.38
+INFO - Transaction Net Value: -28731.16
+INFO - underlying: Shorting 82 shares at 350.39 | Going long 0 shares at 744.0
+INFO - Transaction Net Value: 28731.98
+INFO - #####
+INFO - Liquid Cash: 693212380.6199995
+INFO - Current Value: -795758426.6800005
+INFO - #####
+INFO - ####2020-11-06 16:05:00####
+INFO - C_326.0: Shorting 0 shares at 28.0 | Going long 28 shares at 350.2
+INFO - Transaction Net Value: -9805.6
+INFO - underlying: Shorting 28 shares at 350.23 | Going long 0 shares at 16.0
+INFO - Transaction Net Value: 9806.44
+INFO - #####
+INFO - Liquid Cash: 693212381.4599996
+INFO - Current Value: 671292970.4599996
+INFO - #####
+INFO - ####2020-11-06 16:06:00####
+INFO - C_284.0: Shorting 0 shares at 39.0 | Going long 39 shares at 350.2
+INFO - Transaction Net Value: -13657.8
+INFO - underlying: Shorting 39 shares at 350.22 | Going long 0 shares at 0.0
+INFO - Transaction Net Value: 13658.580000000002
+INFO - #####
+INFO - Liquid Cash: 693212382.2399997
+INFO - Current Value: 701543216.2399997
+INFO - #####
+INFO - ####2020-11-06 16:07:00####
+INFO - C_353.0: Shorting 0 shares at 70.0 | Going long 70 shares at 350.35
+INFO - Transaction Net Value: -24524.5
+INFO - underlying: Shorting 70 shares at 350.39 | Going long 0 shares at 1640.0
+INFO - Transaction Net Value: 24527.3
+INFO - #####
+INFO - Liquid Cash: 693212385.0399996
+INFO - Current Value: -2602353877.2100005
+INFO - #####
+INFO - ####2020-11-06 16:08:00####
+INFO - C_311.0: Shorting 0 shares at 25.0 | Going long 25 shares at 350.43
+INFO - Transaction Net Value: -8760.75
+INFO - underlying: Shorting 25 shares at 350.46 | Going long 0 shares at 68.0
+INFO - Transaction Net Value: 8761.5
+INFO - #####
+INFO - Liquid Cash: 693212385.7899996
+INFO - Current Value: 566990259.7399997
+INFO - #####
+INFO - ####2020-11-06 16:09:00####
+INFO - C_170.0: Shorting 0 shares at 24.0 | Going long 24 shares at 350.5
+INFO - Transaction Net Value: -8412.0
+INFO - underlying: Shorting 24 shares at 350.52 | Going long 0 shares at 312.0
+INFO - Transaction Net Value: 8412.48
+INFO - #####
+INFO - Liquid Cash: 693212386.2699996
+INFO - Current Value: 66658630.76999962
+INFO - #####
+INFO - ####2020-11-06 16:10:00####
+INFO - #####
+INFO - Liquid Cash: 693212386.2699996
+INFO - Current Value: 698887902.3199996
+INFO - #####
+INFO - ####2020-11-06 16:11:00####
+WARNING - The trade order: ('C_378.0', 0, 11807) is not valid!
+INFO - underlying: Shorting 11807 shares at 350.55 | Going long 0 shares at 128.0
+INFO - Transaction Net Value: 4138943.85
+INFO - #####
+INFO - Liquid Cash: 697351330.1199996
+INFO - Current Value: 448827441.91999966
+INFO - #####
+INFO - ####2020-11-06 16:12:00####
+INFO - C_341.0: Shorting 0 shares at 7.0 | Going long 7 shares at 350.49
+INFO - Transaction Net Value: -2453.4300000000003
+INFO - underlying: Shorting 7 shares at 350.53 | Going long 0 shares at 186.0
+INFO - Transaction Net Value: 2453.71
+INFO - #####
+INFO - Liquid Cash: 697351330.3999997
+INFO - Current Value: 335283259.2499997
+INFO - #####
+INFO - ####2020-11-06 16:13:00####
+INFO - C_333.0: Shorting 0 shares at 35.0 | Going long 35 shares at 350.43
+INFO - Transaction Net Value: -12265.050000000001
+INFO - underlying: Shorting 35 shares at 350.48 | Going long 0 shares at 744.0
+INFO - Transaction Net Value: 12266.800000000001
+INFO - #####
+INFO - Liquid Cash: 697351332.1499997
+INFO - Current Value: -799026162.9000002
+INFO - #####
+INFO - ####2020-11-06 16:14:00####
+INFO - C_190.0: Shorting 0 shares at 40.0 | Going long 40 shares at 350.61
+INFO - Transaction Net Value: -14024.400000000001
+INFO - underlying: Shorting 40 shares at 350.63 | Going long 0 shares at 116.0
+INFO - Transaction Net Value: 14025.2
+INFO - #####
+INFO - Liquid Cash: 697351332.9499998
+INFO - Current Value: 466023123.5999998
+INFO - #####
+INFO - ####2020-11-06 16:15:00####
+INFO - C_346.0: Shorting 95 shares at 71.0 | Going long 0 shares at 350.54
+INFO - Transaction Net Value: 6745.0
+INFO - underlying: Shorting 0 shares at 350.57 | Going long 95 shares at 5.0
+INFO - Transaction Net Value: -475.0
+INFO - #####
+INFO - Liquid Cash: 697357602.9499998
+INFO - Current Value: 690708701.0499998
+INFO - #####

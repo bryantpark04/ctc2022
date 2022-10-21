@@ -47,6 +47,7 @@ class BackTestEngine:
                     del self.portfolio[option]
 
     def _is_valid_trade(self, trade, offered_options):
+        # print(trade[0], offered_options)
         return trade[0] in offered_options and float(trade[1]) <= offered_options[trade[0]][0] * 100 and \
                float(trade[2]) <= offered_options[trade[0]][2] * 100 and \
                offered_options[trade[0]][3] * trade[2] - offered_options[trade[0]][1] * trade[1] <= self.liquid_cash
@@ -99,17 +100,18 @@ class BackTestEngine:
                 if i == 0:
                     continue
                 # If the date has changed
-                if current_date != row[2]:
+                if current_date != row[1]:
                     # Call the strategy
                     self._call_strategy(current_date, raw_minute_data, offered_options)
                     # Register new data
-                    current_date = row[2]
+                    current_date = row[1]
                     logging.info("####"+current_date+"####")
                     offered_options, raw_minute_data = {'underlying': (1e10, float(row[16]), 1e10, float(row[17]))}, []
                 # Dictionary of the volume and price of options (Bid Volume, Bid Price, Ask Volume, Ask Price)
                 offered_options[row[5] + "_" + row[4]] = (float(row[12]), float(row[13]), float(row[14]), float(row[15]))
                 # Append to raw_minute_data
                 raw_minute_data.append(row)
+                # print(self.portfolio)
             # Submit any remaining data for the last minute of the file to the strategy
             self._call_strategy(current_date, raw_minute_data, offered_options)
             # Liquidate any remaining positions we might have
@@ -154,5 +156,5 @@ class BackTestEngine:
         plt.show()
 
 
-bt = BackTestEngine("data/first_5_min.csv")
+bt = BackTestEngine("cleaned_data.csv")
 bt.run()
