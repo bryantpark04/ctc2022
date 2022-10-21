@@ -148,10 +148,15 @@ def strat_function(preds, prices, last_weights):
     weights=[]
     if prices.length()==2:
         for i in range(20):
-            emma.append(prices[i+1][2])
+            emma.append(prices[2][i+1])
+
+
     if prices.length()<50:
         for i in range(20):
             weights.append(.05)
+            a=emma[i]
+            emma[i]=prices[2][i+1]+a(1-(2/(1+prices.length())))
+
     elif prices.length()==50:
         df=pd.DataFrame(prices)
         pairs_trading_checking(df)
@@ -160,7 +165,17 @@ def strat_function(preds, prices, last_weights):
         pairs=strat_function1(causation_matrix,tickers)
     else:
         weights=[]
-    return weights
+
+    troll=[]
+    sum=0
+    for i in range(20):
+        b=math.random()
+        sum+=b
+        troll.append(b)
+    for i in range(20):
+        troll[i]=troll[i]/sum
+
+    return troll
 
 
 
