@@ -38,6 +38,13 @@ class Strategy:
         self.bs_vals: list[float] = []
         self.bs_iv_vals: list[float] = []
         self.bin_vals: list[float] = []
+        self.put_strikes: list[tuple[float, float]] = [] # (volume, strike price)
+        self.call_strikes: list[tuple[float, float]] = []
+        self.put_ratios: list[tuple[float, float]] = []
+        self.call_ratios: list[tuple[float, float]] = []
+        self.first_date: datetime | None = None
+        self.price_prediction: float | None = None
+        self.trades: list[tuple[str, float, float]] = []
 
     """
     read_data:
@@ -55,14 +62,62 @@ class Strategy:
     def read_data(self, row_vals):
         row = row_vals[-1]
         # unpack data
-        time_to_maturity = (datetime.date.fromisoformat(row[3]) - datetime.date.fromisoformat(row[1].split(' ')[0])).days / 365
+        current_date = datetime.fromisoformat(row[1].split(' ')[0])
+        time_to_maturity = (datetime.fromisoformat(row[3]) - current_date).days / 365
         spy_price = (float(row[15]) + float(row[16])) / 2
         strike_price = float(row[4])
-        is_call = float[5] == "C"
+        close_price = float(row[9])
+        is_call = row[5] == "C"
+        volume = float(row[10])
 
         # calculate black scholes, append to array
-        self.bs_vals.append(self.black_scholes(time_to_maturity, .035, spy_price, strike_price, .282, .0125))
-        self.bin_vals.append(self.binomial(time_to_maturity, .035, spy_price, strike_price, .282, .0125))
+        self.bs_vals.append(self.black_scholes(time_to_maturity, .035, spy_price, strike_price, .282, .0125, is_call))
+        # self.bin_vals.append(self.binomial(2000, time_to_maturity, .035, spy_price, strike_price, .282, .0125, is_call))
+
+        if close_price < self.bs_vals[-1]: # buy
+            self.trades = [(row[5] + "_" + row[4], 0, int(row[13])), ("underlying", int(row[13]), 0)]
+        elif close_price > self.bs_vals[-1]: # sell
+            self.trades = [(row[5] + "_" + row[4], int(row[11]), 0), ("underlying", 0, int(row[11]))]
+        else:
+            self.trades = []
+
+        """ This needs puts to work oops
+        # #### DEBUG
+        # print(f"{self.bs_vals[-1]=}")
+        # print(f"{self.put_strikes=}")
+        # print(f"{self.call_strikes=}")
+        # print(f"{self.trades=}")
+
+        # put-call ratio stuff
+        volume = float(row[10])
+        if is_call:
+            self.call_strikes.append((volume, strike_price))
+            self.call_ratios.append((volume, strike_price / self.bs_vals[-1]))
+        else:
+            print("Append")
+            self.put_strikes.append((volume, strike_price))
+            self.put_ratios.append((volume, strike_price / self.bs_vals[-1]))
+        
+        if not self.first_date:
+            self.first_date = current_date
+        # elif (current_date - self.first_date).days < 7:
+        #     pass # background strategy
+        elif (current_date - self.first_date).days >= 1:
+            print("SDFJHKDSHFD")
+            weighted_put_strike_avg = np.mean(v * p for v, p in self.put_strikes)
+            weighted_call_strike_avg = np.mean(v * p for v, p in self.call_strikes)
+            put_call_ratio = (sum(v for v, r in self.call_ratios) * np.mean(r for v, r in self.call_ratios)) / (sum(v for v, r in self.put_ratios) * np.mean(r for v, r in self.put_ratios))
+            price_prediction = (put_call_ratio - 1) * (weighted_put_strike_avg - weighted_call_strike_avg) + weighted_call_strike_avg
+
+            # make trades
+            if is_call and strike_price >= price_prediction + 1:
+                self.trades = [(row[3], volume, 0)]
+            elif not is_call and strike_price <= price_prediction - 1: 
+                self.trades = [(row[3], volume, 0)]
+            else:
+                # self.trades = [("underlying", 0, 0)]
+                self.trades = []
+        """
 
 
     """
@@ -88,7 +143,7 @@ class Strategy:
         'underlying'
     """
     def make_trades(self):
-        pass
+        return self.trades
 
     """
     N: number of iterations in binomial tree
@@ -102,7 +157,7 @@ class Strategy:
     """
     def black_scholes(self, tau, r, S, K, v, q, call):
         normalCDF=norm.cdf
-        mult = 2 * (call.value - 1.5)
+        mult = 2 * (call - 1.5)
 
         d1 = (np.log(S / K) + (r - q + (.5 * (v ** 2))) * tau) / (v * math.sqrt(tau))
         d2 = d1 - (v * math.sqrt(tau))
