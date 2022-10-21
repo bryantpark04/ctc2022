@@ -4,7 +4,7 @@
 # In[16]:
 
 
-get_ipython().system('pip install yfinance ')
+##get_ipython().system('pip install yfinance ')
 
 
 # In[17]:
@@ -109,7 +109,7 @@ causation_matrix = grangerscausationmatrix(df, variables = df.columns)
 
 tickers = ['YPA','AOX','KWE','VSR','VWR','ZNX','MWN','MZJ','VEO','GJA','TUW','HBM','WNF','ABM','RLR','GPE','BUL','PKU','VLK','VYQ','EVW','NQW','PHV','DAI','WGQ','JFL','RLF','NFR','ZKY','STK','OWG','YLF','CPM','TGI','MGW','NTR','KKD','JPN','CGS','VOX']
 
-def strat_function(causation_matrix, tickers):
+def strat_function1(causation_matrix, tickers):
     pairs_trading_checking()
     grangerscausationmatrix(df, df.columns, test = "ssr_chi2test")
     tickers_x = []
@@ -143,9 +143,12 @@ def strat_function(causation_matrix, tickers):
 
     print(stockpairs)
 
+def strat_function(preds, prices, last_weights):
 
 
-strat_function(causation_matrix, tickers = tickers)
+
+
+
 
 
 
