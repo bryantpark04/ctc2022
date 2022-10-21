@@ -99,7 +99,7 @@ class Strategy:
             print("Append")
             self.put_strikes.append((volume, strike_price))
             self.put_ratios.append((volume, strike_price / self.bs_vals[-1]))
-        
+
         if not self.first_date:
             self.first_date = current_date
         # elif (current_date - self.first_date).days < 7:
@@ -114,7 +114,7 @@ class Strategy:
             # make trades
             if is_call and strike_price >= price_prediction + 1:
                 self.trades = [(row[3], volume, 0)]
-            elif not is_call and strike_price <= price_prediction - 1: 
+            elif not is_call and strike_price <= price_prediction - 1:
                 self.trades = [(row[3], volume, 0)]
             else:
                 # self.trades = [("underlying", 0, 0)]
@@ -140,7 +140,7 @@ class Strategy:
         the given time. The value should be 0 for buy or sell if you want no
         activity on that side.
 
-        You can buy/sell underlying stock by the same as above but rather than 
+        You can buy/sell underlying stock by the same as above but rather than
         the first element be str(strike)+str(expiry date) we have the word
         'underlying'
     """

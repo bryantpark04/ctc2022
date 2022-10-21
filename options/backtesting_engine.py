@@ -32,7 +32,7 @@ class BackTestEngine:
         if minute == '16:15:00':
             # Iterate over all open options and close them
             for option in self.portfolio.copy():
-                if option.split('_')[1] == date:
+                if option != 'underlying' and option.split('_')[1] == date:
                     long_alpha = max(0, underlying[1] - float(option.split('_')[0]))
                     # Assumes you have to buy the underlying at execution for a short
                     short_alpha = max(0, underlying[3] - float(option.split('_')[0]))
@@ -106,7 +106,8 @@ class BackTestEngine:
                     # Register new data
                     current_date = row[1]
                     logging.info("####"+current_date+"####")
-                    offered_options, raw_minute_data = {'underlying': (1e10, float(row[16]), 1e10, float(row[17]))}, []
+                    offered_options['underlying'] = (1e10, float(row[15]), 1e10, float(row[16]))
+                    raw_minute_data = []
                 # Dictionary of the volume and price of options (Bid Volume, Bid Price, Ask Volume, Ask Price)
                 offered_options[row[5] + "_" + row[4]] = (float(row[12]), float(row[13]), float(row[14]), float(row[15]))
                 # Append to raw_minute_data
@@ -139,7 +140,7 @@ class BackTestEngine:
         trade_ct = np.array(self.trade_arr)
         fig, axs = plt.subplots(2, 1, figsize=(10, 8), constrained_layout=True)
         fig.suptitle('Visual Representation of Strategy Performance', fontsize=16, color='#d24b65')
-        
+
         peak = np.argmax(np.maximum.accumulate(y) - y) # end of the period
         trough = np.argmax(y[:peak])
 
