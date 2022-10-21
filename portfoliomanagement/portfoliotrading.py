@@ -24,9 +24,9 @@ from statsmodels.tsa.stattools import grangercausalitytests
 # In[34]:
 
 
-def pairs_trading_checking():
+def pairs_trading_checking(prices):
     tickers = ['YPA','AOX','KWE','VSR','VWR','ZNX','MWN','MZJ','VEO','GJA','TUW','HBM','WNF','ABM','RLR','GPE','BUL','PKU','VLK','VYQ','EVW','NQW','PHV','DAI','WGQ','JFL','RLF','NFR','ZKY','STK','OWG','YLF','CPM','TGI','MGW','NTR','KKD','JPN','CGS','VOX']
-    prices = pd.read_csv("prices.csv")
+    ##prices = pd.read_csv("prices.csv")
     prices.head()
     stock_list = prices[1:]
 
@@ -87,10 +87,10 @@ df.head()
 
 def grangerscausationmatrix(data, variables, test = 'ssr_chi2test'
                             , verbose = False):
-    df = pd.DataFrame(np.zeros((len(variables), len(variables))), columns=variables, index=variables)
+    df = pd.DataFrame(np.zeros((len(variables), len(variables))), variables, variables)
     for c in df.columns:
         for r in df.index:
-            test_result = grangercausalitytests(data[[r, c]], maxlag=maxlag, verbose=False)
+            test_result = grangercausalitytests(data[[r, c]], maxlag, False)
             p_values = [round(test_result[i+1][0][test][1],4) for i in range(maxlag)]
             if verbose: print(f'Y = {r}, X = {c}, P Values = {p_values}')
             min_p_value = np.min(p_values)
@@ -101,7 +101,7 @@ def grangerscausationmatrix(data, variables, test = 'ssr_chi2test'
 
 
 
-causation_matrix = grangerscausationmatrix(df, variables = df.columns)
+causation_matrix = grangerscausationmatrix(df, df.columns)
 
 
 # In[38]:
@@ -111,7 +111,7 @@ tickers = ['YPA','AOX','KWE','VSR','VWR','ZNX','MWN','MZJ','VEO','GJA','TUW','HB
 
 def strat_function1(causation_matrix, tickers):
     pairs_trading_checking()
-    grangerscausationmatrix(df, df.columns, test = "ssr_chi2test")
+    grangerscausationmatrix(df, df.columns)
     tickers_x = []
     for x in tickers:
         x = x+"_x"
@@ -141,9 +141,28 @@ def strat_function1(causation_matrix, tickers):
         if list[1] >= 0.95:
             stockpairs.append([list[0], list[2]])
 
-    print(stockpairs)
+    return(stockpairs)
+emma=[]
 
 def strat_function(preds, prices, last_weights):
+    weights=[]
+    if prices.length()==2:
+        for i in range(20):
+            emma.append(prices[i+1][2])
+    if prices.length()<50:
+        for i in range(20):
+            weights.append(.05)
+    elif prices.length()==50:
+        df=pd.DataFrame(prices)
+        pairs_trading_checking(df)
+        weights=last_weights
+        causation_matrix = grangerscausationmatrix(df, df.columns)
+        pairs=strat_function1(causation_matrix,tickers)
+    else:
+        weights=[]
+    return weights
+
+
 
 
 
